@@ -251,7 +251,7 @@ Che Lo pilota lungo la via —
 
 It was not [[motifs/death|Death]], for I stood up,  
 And all the Dead, lie down —  
-It was not [[motifs/night|Night]], for all [[The [[motifs/bells|Bells]]|the Bells]]  
+It was not [[motifs/night|Night]], for all [[motifs/bells|the Bells]]  
 Put out their Tongues, for [[motifs/noon|Noon]].  
 
 It was not [[motifs/frost|Frost]], for on my Flesh  
@@ -284,7 +284,7 @@ To justify — [[concepts/despair|Despair]].
 
 Non era [[motifs/death|Morte]], perché stavo in piedi,  
 E tutti i Morti, giacciono —  
-Non era [[motifs/night|Notte]], perché tutte [[The [[motifs/bells|Bells]]|le Campane]]  
+Non era [[motifs/night|Notte]], perché tutte [[motifs/bells|le Campane]]  
 Cacciavano fuori le Lingue, per [[motifs/noon|Mezzogiorno]].  
 
 Non era [[motifs/frost|Gelo]], perché sulla mia Carne  

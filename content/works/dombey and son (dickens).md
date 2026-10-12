@@ -33,7 +33,7 @@ tags:
 - [Chapter 24: The Study of a Loving Heart](/testi/dickens/atomized/dombey_and_son#chapter_09_the_study_of_a_loving_heart)
 - [Chapter 26: Shadows of the Past and Future](/testi/dickens/atomized/dombey_and_son#chapter_10_shadows_of_the_past_and_future)
 - [Chapter 28: Alterations](/testi/dickens/atomized/dombey_and_son#chapter_11_alterations)
-- [Chapter 30: The interval before the [[Marriage](/testi/dickens/atomized/dombey_and_son#chapter_12_the_interval_before_the_marria)
+- [Chapter 30: The interval before the Marriage](/testi/dickens/atomized/dombey_and_son#chapter_12_the_interval_before_the_marria)
 - [Chapter 32: The Wooden Midshipman goes to Pieces](/testi/dickens/atomized/dombey_and_son#chapter_13_the_wooden_midshipman_goes_to)
 - [Chapter 34: Another Mother and Daughter](/testi/dickens/atomized/dombey_and_son#chapter_14_another_mother_and_daughter)
 - [Chapter 36: Housewarming](/testi/dickens/atomized/dombey_and_son#chapter_15_housewarming)

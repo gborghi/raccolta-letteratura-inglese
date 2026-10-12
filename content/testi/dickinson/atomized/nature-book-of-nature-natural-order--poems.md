@@ -594,7 +594,7 @@ Answer Thee — Me —
 
 Nay — said the May —  
 Show me the [[motifs/snow|Snow]] —  
-Show me [[The [[motifs/bells|Bells]]|the Bells]] —  
+Show me [[motifs/bells|the Bells]] —  
 Show me the Jay!  
 
 Quibbled the Jay —  
@@ -619,7 +619,7 @@ Rispondi Tu — a Me —
 
 No — disse il Maggio —  
 Mostrami la [[motifs/snow|Neve]] —  
-Mostrami [[The [[motifs/bells|Bells]]|le Campane]] —  
+Mostrami [[motifs/bells|le Campane]] —  
 Mostrami la Ghiandaia!  
 
 Cavillò la Ghiandaia —  

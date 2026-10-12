@@ -448,7 +448,7 @@ For Circumstance the same —
 
 'Twas such an Ample Peace —  
 It could not hold a Sigh —  
-'Twas Sabbath — with [[The [[motifs/bells|Bells]]|the Bells]] divorced —  
+'Twas Sabbath — with [[motifs/bells|the Bells]] divorced —  
 'Twas Sunset — all the Day —  
 
 So choosing but a Gown —  
@@ -476,7 +476,7 @@ Della stessa Circostanza —
 
 Era una Pace così Ampia —  
 Non poteva contenere un Sospiro —  
-Era Sabato — divorziato da [[The [[motifs/bells|Bells]]|le Campane]] —  
+Era Sabato — divorziato da [[motifs/bells|le Campane]] —  
 Era Tramonto — tutto il Giorno —  
 
 Così scegliendo solo una Veste —  

@@ -11773,7 +11773,7 @@ nor greater, nor wiser than they ought to be.
 
 
 
-~~~ End of Text ~~~
+\~~~ End of Text ~~~
 
 
 

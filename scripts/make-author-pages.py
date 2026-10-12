@@ -99,6 +99,12 @@ title: {author}
 
 made = []
 for author, s in STATS.items():
+    # An author with no published works (excluded from the public site, e.g. still
+    # under copyright) must not get a "0 works" landing page; drop a stale one too.
+    if not s.get("works"):
+        stale = f"{OUTDIR}/{author.lower()}.md"
+        if os.path.exists(stale): os.remove(stale)
+        print("no published works, no page:", author); continue
     bp = f"{BIOS}/{author}.json"
     if not os.path.exists(bp): print("no bio:", author); continue
     bio = json.load(open(bp, encoding="utf-8"))

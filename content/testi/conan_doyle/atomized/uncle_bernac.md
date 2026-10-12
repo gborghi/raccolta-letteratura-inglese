@@ -15,7 +15,7 @@ tags:
 
 
 UNCLE BERNAC
-This was one of several fictional historical works that Doyle wrote during the last five years of the 19th century, as he tried to find something to replace Sherlock Holmes, whom he had ‘killed off’ in 1894. Doyle later dismissed this novel as a failure, although he always liked his lengthy description of [[historical-references/napoleon|Napoleon]] (which he had written before beginning the novel).  This murder mystery story tells the story of a young Frenchman, who, grown up in England, returns to [[settings/france|France]] during the time of [[[[historical-references/napoleon|Napoleon]] Bonaparte]]’s “Prise de pouvoir” to offer him his services, and the adventures this causes him to be involved in.
+This was one of several fictional historical works that Doyle wrote during the last five years of the 19th century, as he tried to find something to replace Sherlock Holmes, whom he had ‘killed off’ in 1894. Doyle later dismissed this novel as a failure, although he always liked his lengthy description of [[historical-references/napoleon|Napoleon]] (which he had written before beginning the novel).  This murder mystery story tells the story of a young Frenchman, who, grown up in England, returns to [[settings/france|France]] during the time of [[historical-references/napoleon|Napoleon Bonaparte]]’s “Prise de pouvoir” to offer him his services, and the adventures this causes him to be involved in.
 
 The first edition
 

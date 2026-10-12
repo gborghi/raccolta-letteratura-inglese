@@ -21,7 +21,10 @@ PRETTY = lambda d: d.replace("_", " ")
 STOP = set(("the a an and or but if then else of to in on at by for with from as is are was were be been being this that these those it its i you he she we they them his her their our your my me him us not no nor so too very can will would should could may might must shall do does did have has had having about into over under out up down off again further once here there when where why how all any both each few more most other some such only own same than that then thus yet also upmost thou thee thy hath doth shall unto o oh ye "
     "which what who whom whose said says one two upon now like man men come came go went see saw know knew think thought said say tell told make made take took give gave will would could should shall must may might let us mrs mr dr sir lady much many little great good old new day night time life man old long thing things way ways part place come "
     "html split work works word words body div span class href http https www com net org didascalia parla battuta chi scena atto entra esce").split())
-WORD = re.compile(r"[a-zA-Z']+")
+# Apostrophes inside a word are part of it ("ceas'd", "lov'd", "o'er"); the vault uses
+# the typographic ’, which the old [a-zA-Z']+ split on, so Keats's elided forms were
+# counted (and shown in his word cloud) as the stumps "ceas", "lov", "gaz".
+WORD = re.compile(r"[a-zA-Z]+(?:['’][a-zA-Z]+)*")
 
 def syllables(w):
     w = re.sub(r"[^a-z]", "", w.lower())
@@ -67,7 +70,7 @@ for au in AUTHORS:
     atoms_by_au[au] = ats
     toks = []
     for t in ats:
-        toks += [w.lower() for w in WORD.findall(t) if len(w) > 2]
+        toks += [w.lower().replace("’", "'") for w in WORD.findall(t) if len(w) > 2]
     tokens[au] = toks
     tf[au] = Counter(w for w in toks if w not in STOP)
 

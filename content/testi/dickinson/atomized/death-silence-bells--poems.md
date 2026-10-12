@@ -1458,7 +1458,7 @@ E solo le onde rispondono.
 A first Mute Coming —  
 In the Stranger's House —  
 A first fair Going —  
-When [[The [[motifs/bells|Bells]]|the Bells]] rejoice —  
+When [[motifs/bells|the Bells]] rejoice —  
 
 A first Exchange — of  
 What hath mingled — been —  
@@ -1471,7 +1471,7 @@ For Lot — exhibited to
 Un primo Muto Venire —  
 Nella Casa dello Straniero —  
 Un primo bell'Andare —  
-Quando [[The [[motifs/bells|Bells]]|le Campane]] gioiscono —  
+Quando [[motifs/bells|le Campane]] gioiscono —  
 
 Un primo Scambio — di  
 Ciò che mescolato — è stato —  

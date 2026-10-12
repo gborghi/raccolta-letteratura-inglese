@@ -6914,8 +6914,7 @@ bottega in città dove la terra non ha prezzo; e quelle sono le cose per
 cui gli uomini risparmiano. Ma è il [[concepts/paradox|paradosso]] dell'intera
 posizione che gli Utilitaristi che predicavano sempre la prudenza abbiano
 impegnato questo paese in una delle rivoluzioni più realmente temerarie
-della [[concepts/history|storia]]—la [[historical-references/industrial-revolution|rivoluzione
-industriale]]. Essi distrussero l'agricoltura e trasformarono
+della [[concepts/history|storia]]—la [[historical-references/industrial-revolution|rivoluzione industriale]]. Essi distrussero l'agricoltura e trasformarono
 l'Inghilterra in un'officina; un'officina in cui gli operai rischiavano
 in ogni momento di essere chiusi fuori e lasciati a mangiare martelli e
 seghe. I Radicali che fecero ciò erano pittoreschi come pirati, nella

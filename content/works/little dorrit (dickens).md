@@ -50,9 +50,9 @@ tags:
 
 ## Capitoli / Chapters
 
-- [Book 1: [[Poverty|POVERTY](/testi/dickens/atomized/little_dorrit#chapter_01_poverty_poverty)
+- [Book 1: POVERTY](/testi/dickens/atomized/little_dorrit#chapter_01_poverty_poverty)
 - [Book 2: RICHES](/testi/dickens/atomized/little_dorrit#chapter_02_riches)
-- [Chapter 4: Mrs Flintwinch has [[A Dream|a Dream](/testi/dickens/atomized/little_dorrit#chapter_06_mrs_flintwinch_has_a_dream_a_d)
+- [Chapter 4: Mrs Flintwinch has a Dream](/testi/dickens/atomized/little_dorrit#chapter_06_mrs_flintwinch_has_a_dream_a_d)
 - [Chapter 2: Mrs General](/testi/dickens/atomized/little_dorrit#chapter_40_mrs_general)
 - [Chapter 4: A Letter from Little Dorrit](/testi/dickens/atomized/little_dorrit#chapter_42_a_letter_from_little_dorrit)
 

@@ -377,13 +377,27 @@ table.lt-table td.lt-num:last-child {
 // Mobile: the works table's numeric columns (Links, Flesch, Grade, Fog) overflow
 // a phone viewport — and are empty for verse/letters anyway. Hide them; keep
 // Title / Author / Cluster. Belt-and-suspenders horizontal scroll on the wrapper.
-#opere-table {
+#opere-table,
+#brani-table {
   overflow-x: auto;
+  max-width: 100%;
 }
 @media (max-width: 640px) {
   #opere-table table.lt-table th:nth-child(n + 4),
   #opere-table table.lt-table td:nth-child(n + 4) {
     display: none;
+  }
+  // Brani: Excerpt / Work / Author / Type is four columns on a 390px phone and pushed
+  // the page sideways. The excerpt title already names its work ("1 Henry IV — Act I,
+  // Scene 1"), so keep Excerpt + Author and drop Work and Type there.
+  #brani-table table.lt-table th:nth-child(2),
+  #brani-table table.lt-table td:nth-child(2),
+  #brani-table table.lt-table th:nth-child(n + 4),
+  #brani-table table.lt-table td:nth-child(n + 4) {
+    display: none;
+  }
+  #brani-table table.lt-table td:nth-child(3) {
+    white-space: nowrap;
   }
 }
 .lt-pager {
@@ -1705,11 +1719,43 @@ body.reading-page {
   // min-content (307px) exceeds the 288px content box and the whole PAGE scrolls
   // sideways — the grid track widens to fit it, dragging every section out with it.
   // The title is the only elastic part, so let it shrink and ellipsize.
-  .page > #quartz-body .sidebar.left > .page-title {
+  // The title is the only elastic part. It used to be nowrap+ellipsis, but the global
+  // `a { text-wrap: pretty }` reset the link's wrap mode, so on a 390px phone the title
+  // broke onto four lines at full display size and the sticky bar (227px) covered a
+  // third of the screen. Now: a smaller size, at most two lines, clipped with an
+  // ellipsis, and the empty mobile spacer no longer competes with it for width.
+  // overflow-x: clip — the off-screen Explorer drawer inside this bar widened the
+  // mobile layout viewport to 406px on some pages (tag pages, /intelligenza-
+  // artificiale), so the whole page scrolled sideways. The drawer itself still opens.
+  .page > #quartz-body .sidebar.left {
     min-width: 0;
+    max-width: 100%;
+    overflow-x: clip;
+  }
+  .page > #quartz-body .sidebar.left > .mobile-only {
+    flex: 0 0 auto;
+  }
+  .page > #quartz-body .sidebar.left > .mobile-only .spacer {
+    flex: 0 0 0;
+    width: 0;
+  }
+  .page > #quartz-body .sidebar.left > .page-title {
+    flex: 1 1 auto;
+    min-width: 0;
+    margin: 0;
+    padding-bottom: 0.35rem;
+    font-size: 1.15rem;
+    line-height: 1.15;
+    white-space: normal;
+  }
+  .page > #quartz-body .sidebar.left > .page-title a {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
     overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    white-space: normal;
+    text-wrap: wrap;
   }
 }
 
@@ -2179,6 +2225,15 @@ footer li:has(> a[href="/intelligenza-artificiale"]) > a {
   color: var(--darkgray);
   text-decoration: underline;
   text-underline-offset: 0.15em;
+}
+
+// ---- tag / folder listings: no per-item tag column ----
+// Each listed page carries up to forty tags; in the narrow listing column they stacked
+// into a tall chip tower, so a tag page announcing "3 items" showed only the first one
+// above the fold. The listing is for finding pages; their tags are on the page itself.
+.page-listing .section > .tags,
+.page-listing .section > .axis-tags {
+  display: none;
 }
 
 // ---- axis-grouped tag chips (axisTags.inline.ts) ----

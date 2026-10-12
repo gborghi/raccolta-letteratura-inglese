@@ -213,8 +213,7 @@ nemico. Né alcuno dimenticherà il capitolo in cui il peccatore si riconcilia
 con l'Universo, e cammina per i campi e non può trattenersi dal parlare agli
 [[motifs/birds|uccelli]] della grande [[concepts/mercy|misericordia]] di Dio. È questo
 generale e acuto senso del pericolo che è l'[[motifs/soul|anima]] del
-[[historical-references/puritanism|puritanesimo]], e l'[[motifs/soul|anima]] del "[[archetypes/pilgrim|Viaggio del
-pellegrino]]".
+[[historical-references/puritanism|puritanesimo]], e l'[[motifs/soul|anima]] del "[[archetypes/pilgrim|Viaggio del pellegrino]]".
 
 Vi è un'innumerevole schiera di figure buone e pittoresche nel
 "[[archetypes/pilgrim|Viaggio del pellegrino]]". C'è l'uomo scuro vestito di
@@ -687,8 +686,7 @@ nemico. Né alcuno dimenticherà il capitolo in cui il peccatore si riconcilia
 con l'Universo, e cammina per i campi e non può trattenersi dal parlare agli
 [[motifs/birds|uccelli]] della grande [[concepts/mercy|misericordia]] di Dio. È questo
 generale e acuto senso del pericolo che è l'[[motifs/soul|anima]] del
-[[historical-references/puritanism|puritanesimo]], e l'[[motifs/soul|anima]] del "[[archetypes/pilgrim|Viaggio del
-pellegrino]]".
+[[historical-references/puritanism|puritanesimo]], e l'[[motifs/soul|anima]] del "[[archetypes/pilgrim|Viaggio del pellegrino]]".
 
 Vi è un'innumerevole schiera di figure buone e pittoresche nel
 "[[archetypes/pilgrim|Viaggio del pellegrino]]". C'è l'uomo scuro vestito di

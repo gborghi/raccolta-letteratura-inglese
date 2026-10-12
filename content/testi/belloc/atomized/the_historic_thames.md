@@ -21,7 +21,7 @@ Questa storia del Tamigi fu pubblicata per la prima volta nel 1907; la prima edi
 
 Pagina di titolo della prima edizione
 
-Mappa che mostra il percorso del [[[[motifs/river|fiume]] Tamigi.
+Mappa che mostra il percorso del [[motifs/river|fiume]] Tamigi.
 
 [[settings/london|LONDRA]]. Il storico fiume Tamigi.
 
@@ -1079,7 +1079,7 @@ This history of the Thames was first published in 1907 – the first edition bei
 
 Title page of the first edition
 
-Map showing the course of the [[[[motifs/river|River]] Thames]]
+Map showing the course of the [[motifs/river|River Thames]]
 
 [[settings/london|LONDON]]. THE HISTORIC THAMES
 
@@ -1114,7 +1114,7 @@ Questa storia del Tamigi fu pubblicata per la prima volta nel 1907; la prima edi
 
 Pagina di titolo della prima edizione
 
-Mappa che mostra il percorso del [[[[motifs/river|fiume]] Tamigi.
+Mappa che mostra il percorso del [[motifs/river|fiume]] Tamigi.
 
 [[settings/london|LONDRA]]. Il storico fiume Tamigi.
 

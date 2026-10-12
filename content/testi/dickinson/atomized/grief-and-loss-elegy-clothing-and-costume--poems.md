@@ -56,7 +56,7 @@ E questo fanello volò!
 If those I loved were lost,  
 the crier's voice would tell me -  
 If those I loved were found,  
-[[The [[motifs/bells|Bells]]|the bells]] of Ghent would ring,  
+[[motifs/bells|the bells]] of Ghent would ring,  
 
 Did those I loved repose,  
 the Daisy would impel me -  
@@ -69,7 +69,7 @@ bore his [[forms/riddle|riddle]] in -
 Se quelli che amavo fossero perduti,  
 la voce del banditore me lo direbbe -  
 Se quelli che amavo fossero ritrovati,  
-[[The [[motifs/bells|Bells]]|le campane]] di Gand suonerebbero,  
+[[motifs/bells|le campane]] di Gand suonerebbero,  
 
 Se quelli che amavo riposassero,  
 la Margherita mi spingerebbe -  

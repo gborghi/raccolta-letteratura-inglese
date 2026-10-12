@@ -5,6 +5,7 @@
 // - generates an editorial home page (index.md), the works table page (opere.md),
 //   and the faceted search page (cerca.md)
 import { promises as fs } from "node:fs"
+import { fixMarkdown } from "./scripts/fix-markdown.mjs"
 import { readFileSync, existsSync } from "node:fs"
 import path from "node:path"
 import matter from "gray-matter"
@@ -198,6 +199,10 @@ function parseFrontmatter(raw) {
 // and on any machine: <repo parent>/quartz-eng-lit/preprocess.mjs -> vault is the
 // sibling VaultEnglish/.
 const ROOT = path.dirname(fileURLToPath(import.meta.url))
+// A work folder name used as a display label when the work has no title of its own:
+// drop the vault's sort prefix ("009_The_Picture_of_Dorian_Gray" -> "The Picture of
+// Dorian Gray"). Three digits only, so "1_Henry_IV" keeps its number.
+const dirLabel = (d) => String(d).replace(/_/g, " ").replace(/^\d{3}\s+/, "")
 const VAULT_ROOT = path.resolve(ROOT, "..", "VaultEnglish")
 const VAULT = path.join(VAULT_ROOT, "Knowledge Graph")
 const AUTHORS_DIR = path.join(VAULT_ROOT, "Authors")
@@ -730,7 +735,7 @@ async function publishUnits(
           const workSlug = sluggify(`${TESTI_REL}/${author}/${sub}/${effectiveWorkDir}`)
           if (parentWorkHref) readHrefByWork.set(parentWorkHref, workSlug)
           const wt = workTitle(author, effectiveWorkDir) || workTitle(author, workDir)
-          const baseWorkLabel = wt || workDir.replace(/_/g, " ")
+          const baseWorkLabel = wt || dirLabel(workDir)
           const splitLabel =
             splitKind === "poems" ? "Poems" : splitKind === "letters" ? "Letters" : ""
           const workLabel = splitLabel ? `${baseWorkLabel} — ${splitLabel}` : baseWorkLabel
@@ -1027,7 +1032,7 @@ async function publishUnits(
           }
 
           // breadcrumb + prev/next nav block
-          const crumbLabel = wt || workDir.replace(/_/g, " ")
+          const crumbLabel = wt || dirLabel(workDir)
           const crumbs = []
           if (parentWorkHref) crumbs.push(`<a href="/${parentWorkHref}">${esc(crumbLabel)}</a>`)
           else crumbs.push(esc(crumbLabel))
@@ -1127,7 +1132,7 @@ async function publishUnits(
               href: it.slug,
               title,
               author,
-              work: wt || workDir.replace(/_/g, " "),
+              work: wt || dirLabel(workDir),
               workHref: parentWorkHref || "",
               unitType: it.unitType,
               order: it.order,
@@ -2387,16 +2392,24 @@ Se trovi una traduzione sbagliata o un errore in una pagina, [segnalalo](/feedba
       : lands(target)
   const deadStripped = new Map()
   let noisyTotal = 0
+  let hygieneFixed = 0
   for (const p of emitted) {
-    const before = await fs.readFile(p, "utf8")
+    const raw = await fs.readFile(p, "utf8")
+    // stray ~~~ fences, line-broken wikilinks, padded **bold** (scripts/fix-markdown.mjs)
+    const before = fixMarkdown(raw)
+    if (before !== raw) hygieneFixed++
     const { md, stripped } = stripDeadLinks(before, keepLink)
-    if (!stripped.length) continue
+    if (!stripped.length) {
+      if (before !== raw) await fs.writeFile(p, before)
+      continue
+    }
     for (const t of stripped) {
       deadStripped.set(t, (deadStripped.get(t) || 0) + 1)
       if (lands(t)) noisyTotal++
     }
     await fs.writeFile(p, md)
   }
+  console.log(`markdown hygiene: ${hygieneFixed} pages fixed (fences, broken links, bold padding)`)
   const deadTotal = [...deadStripped.values()].reduce((a, b) => a + b, 0)
   const topDead = [...deadStripped.entries()]
     .sort((a, b) => b[1] - a[1])

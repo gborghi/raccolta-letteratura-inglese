@@ -6496,8 +6496,7 @@ fosse tormentato da spauracchi immaginari; non lo sono meno se s'era
 imbrogliato con spauracchi veri. Comunque, prima di lasciare quel
 villaggio avevo raccontato a un uomo ciò che avevo visto, ed egli mi
 disse d'averlo visto anche lui. Ma lui l'aveva visto muoversi davvero,
-nel crepuscolo che volgeva al buio; l'intera [[motifs/great-house|grande
-casa]], con le sue alte colonne, muoversi attraverso i campi come una
+nel crepuscolo che volgeva al buio; l'intera [[motifs/great-house|grande casa]], con le sue alte colonne, muoversi attraverso i campi come una
 grande [[motifs/ship|nave]] che veleggi sulla terraferma.»
 
 Owen Hood si drizzò a sedere di scatto, con occhi ridestati, e batté
