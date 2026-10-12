@@ -281,23 +281,23 @@ barattare per cibo i gioielli della sua [[motifs/crown|corona]].
 <span class="atom-split" data-atom="125_ode_to_the_departing_year" data-title="ODE TO THE DEPARTING YEAR" data-chapter="" data-kind="intro"></span>
 
 
-8¿z 0¿{, b b º±ºq.  
-YÀ’ ±V ¼µ ´µ¹½xÂ @Á¸¿¼±½Äµw±Â Ày½¿Â  
-£ÄÁ¿²µÖ, Ä±ÁqÃÃÉ½ ÆÁ¿¹¼w¿¹Â ´ÅÃÆÁ¿¹¼w¿¹Â.  
+Ἰοὺ ἰού, b b κακά.  
+Ὑπ’ αὖ με δεινὸς ὀρθομαντείας πόνος  
+Στροβεῖ, ταράσσων φροιμίοις δυσφροιμίοις.  
 *       *       *       *       *
-¤x ¼s»»¿½ %¾µ¹. š±v Ã{ ¼’ ÄqÇµ¹ À±Á|½  
-³±½ »·¸y¼±½Ä¹½ ¿0ºÄµwÁ±Â ÁµÖÂ.  
+Τὸ μέλλον ἥξει. Καὶ σύ μ’ τάχει παρὼν  
+γαν ληθόμαντιν οἰκτείρας ρεῖς.  
 Aeschyl. Agam. 1173-75; 1199-1200.  
 
 
 <span class="qlang-split" data-lang="it"></span>
 
-8¿z 0¿{, b b º±ºq.  
-YÀ’ ±V ¼µ ´µ¹½xÂ @Á¸¿¼±½Äµw±Â Ày½¿Â  
-£ÄÁ¿²µÖ, Ä±ÁqÃÃÉ½ ÆÁ¿¹¼w¿¹Â ´ÅÃÆÁ¿¹¼w¿¹Â.  
+Ἰοὺ ἰού, b b κακά.  
+Ὑπ’ αὖ με δεινὸς ὀρθομαντείας πόνος  
+Στροβεῖ, ταράσσων φροιμίοις δυσφροιμίοις.  
 *       *       *       *       *
-¤x ¼s»»¿½ %¾µ¹. š±v Ã{ ¼’ ÄqÇµ¹ À±Á|½  
-³±½ »·¸y¼±½Ä¹½ ¿0ºÄµwÁ±Â ÁµÖÂ.  
+Τὸ μέλλον ἥξει. Καὶ σύ μ’ τάχει παρὼν  
+γαν ληθόμαντιν οἰκτείρας ρεῖς.  
 Eschilo, Agam. 1173-75; 1199-1200.
 
 
@@ -478,7 +478,7 @@ finché la coppa della rabbia trabocchi:   70
 afferreranno lui e la sua nidiata —
 Str. Lo faranno a pezzi, membro a membro!
 [[motifs/fire|Fuoco]]. O megere ingrate e sleali!
-È questo tutto ciò che sapete fare
+ψ questo tutto ciò che sapete fare
 per lui, che tanto fece per voi?   75
 Novanta mesi egli, in fede mia!,
 vi ha lautamente imbandito per entrambe;
@@ -1048,7 +1048,7 @@ Voi, mio Lord, con la vostra stella, sedevate in stivali, e l’Ambasciatore
 spagnolo pertanto stimò opportuno svanire.   86  
 Ma forse, caro mio Lord, fra altri crimini peggiori,  
 il tutto non fu che una menzogna del Times.  
-È mostruoso, mio Lord!, in uno stato civile  
+ψ mostruoso, mio Lord!, in uno stato civile  
 che simili furfanti da Gazzetta abbiano licenza di ciarlare.   90  
 In verità la stampa in generale — se non fosse per le tasse,  
 è falsa in teoria e perniciosa in prassi!  
@@ -1357,14 +1357,14 @@ Whose could the Triumph be [[concepts/freedom|Freedom]] but thine?
 [[motifs/stars|Stars]] of the Heaven shine to feed thee;  
 Hush’d are the Whirl-blasts and heed thee; —  
 By her depth, by her height, [[concepts/nature|Nature]] swears thou art mine!  
-1. Amphibrach tetrameter catalectic Ø ¯ Ø | Ø ¯ Ø | Ø ¯ Ø | Ø ¯
+1. Amphibrach tetrameter catalectic ˘ ί ˘ ὼ ˘ ί ˘ ὼ ˘ ί ˘ ὼ ˘ ¯
 2. Ditto.
 3. Three pseudo amphimacers, and one long syllable.
 4. Two dactyls, and one perfect Amphimacer.
 5. = 1 and 2.
-6. ¯ Ø ¯ | ¯ Ø ¯ Ø |
-7. ¯ Ø ¯ | ¯ Ø ¯ Ø |
-8. ¯ Ø ¯ | ¯ Ø ¯, ¯ Ø ¯, ¯ Ø ¯
+6. ¯ ˘ ¯ | ¯ ˘ ί ˘ |
+7. ¯ ˘ ¯ | ¯ ˘ ί ˘ |
+8. ¯ ˘ ¯ | ¯ ˘ ¯, ¯ ˘ ¯, ¯ ˘ ¯
 1801. Now first published from an MS.
 
 
@@ -1378,14 +1378,14 @@ Di chi poteva essere il Trionfo, [[concepts/freedom|Libertà]], se non tuo?
 Le [[motifs/stars|stelle]] del Cielo brillano per nutrirti;  
 taciute sono le Raffiche vorticose e ti danno ascolto; —  
 per la sua profondità, per la sua altezza, la [[concepts/nature|Natura]] giura che sei mia!  
-1. Tetrametro anfibraco catalettico Ø ¯ Ø | Ø ¯ Ø | Ø ¯ Ø | Ø ¯
+1. Tetrametro anfibraco catalettico ˘ ί ˘ ὼ ˘ ί ˘ ὼ ˘ ί ˘ ὼ ˘ ¯
 2. Idem.
 3. Tre pseudo anfimacri, e una sillaba lunga.
 4. Due dattili, e un Anfimacro perfetto.
 5. = 1 e 2.
-6. ¯ Ø ¯ | ¯ Ø ¯ Ø |
-7. ¯ Ø ¯ | ¯ Ø ¯ Ø |
-8. ¯ Ø ¯ | ¯ Ø ¯, ¯ Ø ¯, ¯ Ø ¯
+6. ¯ ˘ ¯ | ¯ ˘ ί ˘ |
+7. ¯ ˘ ¯ | ¯ ˘ ί ˘ |
+8. ¯ ˘ ¯ | ¯ ˘ ¯, ¯ ˘ ¯, ¯ ˘ ¯
 1801. Ora pubblicata per la prima volta da un MS.
 
 

@@ -26,8 +26,8 @@ tags:
 
 ## Testo integrale / Full text
 
-ÇÁÅÃx½ ½tÁ µQÁ|½ »¹Àµ ²ÁyÇ¿½, ±PÄpÁ A ÇÁÅÃx½  
-E½ »wÀµ½ ¿PÇ µQÁ|½ 'Èµ½ E½ µWÁµ ²ÁyÇ¿½.  
+χρυσὸν νὴρ εὑρὼν λιπε βρόχον, αὐτὰρ ὁ χρυσὸν  
+ὅν λίπεν οὐχ εὑρὼν ἧψεν ὅν εὗρε βρόχον.  
 Jack finding gold left a rope on the ground:  
 Bill missing his gold used the rope which he found.  
 First published in Omniana, 1812, ii. 123. First collected in P. and  

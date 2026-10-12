@@ -216,7 +216,7 @@ di giovanili pensieri, non hai bisogno di riposo! O tu,
 cui del pari la valle e la [[motifs/hill|collina]]  
 offrono un cammino agevole! Se mai il tuo occhio  
 cada su questa zolla e su questa rozza tavola, fermati!   5  
-È un luogo rozzo, eppure qui, con cuori grati,  
+ψ un luogo rozzo, eppure qui, con cuori grati,  
 il soldato dai piedi consunti e la sua famiglia  
 hanno riposato, moglie e bimbo, e un ragazzo, forse  
 d'otto anni o meno, e scarsamente nutrito,  
@@ -277,7 +277,7 @@ troppo ampia in sé per la vista umana?
 Un [[concepts/self|sé]] assoluto — un elemento senza fondamento —  
 tutto ciò che vediamo, tutti i colori d'ogni sfumatura  
 fatti dall'invadere della tenebra? — 5  
-È la vita stessa illimitata dalla coscienza?  
+ψ la vita stessa illimitata dalla coscienza?  
 E tutti i pensieri, le pene, le gioie del respiro mortale,  
 un abbraccio di guerra fra vita e [[motifs/death|morte]] in lotta?  
 1805.
@@ -315,11 +315,11 @@ che la [[motifs/death|Morte]] cantò per [[motifs/sleep|addormentarlo]] con una 
 <span class="atom-split" data-atom="278_epitaphium_testamentarium" data-title="EPITAPHIUM TESTAMENTARIUM" data-chapter="" data-kind="intro"></span>
 
 
-¤x Ä¿æ £¤—£• Ä¿æ À¹¸±½¿æÂ Epitaphium testamentarium ±PÄy³Á±Æ¿½.  
+Τὸ τοῦ ΣΤΗΣΕ τοῦ πιθανοῦς Epitaphium testamentarium αὐτόγραφον.  
 Quae linquam, aut nihil, aut nihili, aut vix sunt mea. Sordes  
 Do Morti: reddo caetera, Christe! tibi.  
 1826.  
-ÁÉÂ µv »q»·¸Á¿Â Ä±ÖÁ¿Â  
+ρως εὶ λάληθρος ταῖρος  
 In many ways does the full heart reveal  
 The presence of the [[motifs/love|love]] it would conceal;  
 But in far more th’ estrangéd heart lets know  
@@ -329,11 +329,11 @@ The absence of the [[motifs/love|love]], which yet it fain would shew.
 
 <span class="qlang-split" data-lang="it"></span>
 
-¤x Ä¿æ £¤—£• Ä¿æ À¹¸±½¿æÂ Epitaphium testamentarium ±PÄy³Á±Æ¿½.  
+Τὸ τοῦ ΣΤΗΣΕ τοῦ πιθανοῦς Epitaphium testamentarium αὐτόγραφον.  
 Quae linquam, aut nihil, aut nihili, aut vix sunt mea. Sordes  
 Do Morti: reddo caetera, Christe! tibi.  
 1826.  
-ÁÉÂ µv »q»·¸Á¿Â Ä±ÖÁ¿Â  
+ρως εὶ λάληθρος ταῖρος  
 In molti modi il cuore colmo rivela  
 la presenza dell'[[motifs/love|amore]] che vorrebbe celare;  
 ma in assai più modi il cuore estraniato fa sapere  
@@ -525,13 +525,13 @@ concluding lines are illegible.
 Poole, ‘Reply of Coleridge on my urging him to exert himself.’ First  
 collected in 1893.  
 following quotation from The Select Discourses by John Smith, 1660: —  
-‘So the Sibyl was noted by Heraclitus as ¼±¹½¿¼s½ó ÃÄy¼±Ä¹ ³µ»±ÃÄp º±v  
-º±»»}À¹ÃÄ± Æ¸µ³³¿¼s½·, as one speaking ridiculous and unseemly speeches  
+‘So the Sibyl was noted by Heraclitus as μαινομένῳ στόματι γελαστὰ καὶ  
+καλλώπιστα φθεγγομένη, as one speaking ridiculous and unseemly speeches  
 with her furious mouth.’ The [[forms/fragment|fragment]] is misquoted and misunderstood:  
-for ³µ»±ÃÄq, etc. should be ¼{Á¹ÃÄ± unperfumed, inornate lays, not  
+for γελαστά, etc. should be μύριστα unperfumed, inornate lays, not  
 redolent of art. — Render it thus:  
 Not her’s, etc.  
-£Äy¼±Ä¹ ¼±¹½¿¼s½ó is ‘with ecstatic mouth’.  
+Στόματι μαινομένῳ is ‘with ecstatic mouth’.  
 J. D. Campbell in a note to this [[forms/fragment|Fragment]] (P. W., 1893, pp. 464-5)  
 quotes the ‘following prose [[forms/translation|translation]] of the same passage’, from  
 Coleridge’s Statesman’s Manual (1816, p. 132); ‘Multiscience (or a  
@@ -559,13 +559,13 @@ versi conclusivi sono illeggibili.
 Poole, ‘Risposta di Coleridge a me che lo esortavo a darsi da fare.’ Prima  
 raccolta nel 1893.  
 seguente citazione dai Select Discourses di John Smith, 1660: —  
-‘Così la Sibilla fu additata da Eraclito come ¼±¹½¿¼s½ó ÃÄy¼±Ä¹ ³µ»±ÃÄp º±v  
-º±»»}À¹ÃÄ± Æ¸µ³³¿¼s½·, come una che pronuncia discorsi ridicoli e sconvenienti  
+‘Così la Sibilla fu additata da Eraclito come μαινομένῳ στόματι γελαστὰ καὶ  
+καλλώπιστα φθεγγομένη, come una che pronuncia discorsi ridicoli e sconvenienti  
 con la sua bocca furiosa.’ Il [[forms/fragment|frammento]] è citato male e frainteso:  
-perché ³µ»±ÃÄq, ecc. dovrebbe essere ¼{Á¹ÃÄ±, canti non profumati, disadorni, non  
+perché γελαστά, ecc. dovrebbe essere μύριστα, canti non profumati, disadorni, non  
 odorosi d'arte. — Rendilo così:  
 Non i suoi, ecc.  
-£Äy¼±Ä¹ ¼±¹½¿¼s½ó significa ‘con bocca estatica’.  
+Στόματι μαινομένῳ significa ‘con bocca estatica’.  
 J. D. Campbell in una nota a questo [[forms/fragment|Frammento]] (P. W., 1893, pp. 464-5)  
 cita la ‘seguente [[forms/translation|traduzione]] in prosa dello stesso passo’, dallo  
 Statesman's Manual di Coleridge (1816, p. 132); ‘La multiscienza (ossia una  

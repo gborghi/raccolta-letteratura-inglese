@@ -350,8 +350,8 @@ Ode. First published as The Recantation: an Ode], a kind of
 Palinodia.’ MS. Note by S. T. C.
 Title] Ode for the last day of the Year 1796, C. I.: Ode on the
 Departing Year 4{o}, 1797, 1803, S. L., 1817, 1828, 1829.
-Motto] 3-5 All editions (4{o} to 1834) read Æ·¼w¿¹Â for ´ÅÃÆÁ¿¹¼w¿¹Â,
-and ³±½ ³’ for ³±½; and all before 1834 ¼·½ for ¼’ ½.
+Motto] 3-5 All editions (4{o} to 1834) read φημίοις for δυσφροιμίοις,
+and γαν γ’ for γαν; and all before 1834 μην for μ’ ν.
 I] Strophe I C. I., 4{o}, 1797, 1803.
 When lo! far onwards waving on the [[motifs/wind|wind]]
 I saw the skirts of the DEPARTING YEAR.
@@ -405,8 +405,8 @@ to uncurl his lips, and propose to the lofty Republic to
 restore all its conquests, and to suffer England to
 retain all hers (at least all her important ones), as
 the only terms of Peace, and the ultimatum of the negotiation!
-˜Á±Ã{½µ¹ ³pÁ ±0ÃÇÁy¼·Ä¹Â
-¤q»±¹½±  ‘¡‘šŸ ‘ ÀÁÉÄ¿Àu¼É½ — AESCHYL., Ag. 222-4.
+Θρασύνει γὰρ αἰσχρόμητις
+Τάλαινα  ‘ΡΑΚΟ ‘ πρωτοπήμων — AESCHYL., Ag. 222-4.
 The friends of [[concepts/freedom|Freedom]] in this country are idle. Some are
 timid; some are selfish; and many the torpedo torch of
 hopelessness has numbed into inactivity. We would fain [[concepts/hope|hope]]
@@ -533,8 +533,8 @@ Ode. Pubblicata dapprima come The Recantation: an Ode], una specie di
 Palinodia.’ Nota MS. di S. T. C.
 Titolo] Ode for the last day of the Year 1796, C. I.: Ode on the
 Departing Year 4{o}, 1797, 1803, S. L., 1817, 1828, 1829.
-Motto] 3-5 Tutte le edizioni (dal 4{o} al 1834) leggono Æ·¼w¿¹Â invece di ´ÅÃÆÁ¿¹¼w¿¹Â,
-e ³±½ ³’ invece di ³±½; e tutte prima del 1834 ¼·½ invece di ¼’ ½.
+Motto] 3-5 Tutte le edizioni (dal 4{o} al 1834) leggono φημίοις invece di δυσφροιμίοις,
+e γαν γ’ invece di γαν; e tutte prima del 1834 μην invece di μ’ ν.
 I] Strophe I C. I., 4{o}, 1797, 1803.
 Quand’ecco! lontano innanzi ondeggiando al [[motifs/wind|vento]]
 Vidi i lembi dell’ANNO CHE SE NE VA.
@@ -588,8 +588,8 @@ d’increspare le labbra, e di proporre all’altera Repubblica di
 restituire tutte le sue conquiste, e di sopportare che l’Inghilterra
 ritenga tutte le proprie (almeno tutte quelle importanti), come
 gli unici termini di Pace, e l’ultimatum della trattativa!
-˜Á±Ã{½µ¹ ³pÁ ±0ÃÇÁy¼·Ä¹Â
-¤q»±¹½±  ‘¡‘šŸ ‘ ÀÁÉÄ¿Àu¼É½ — AESCHYL., Ag. 222-4.
+Θρασύνει γὰρ αἰσχρόμητις
+Τάλαινα  ‘ΡΑΚΟ ‘ πρωτοπήμων — AESCHYL., Ag. 222-4.
 Gli amici della [[concepts/freedom|Libertà]] in questo paese sono inerti. Alcuni sono
 timidi; alcuni egoisti; e molti la torpedine fiaccola della
 disperazione ha intorpidito nell’inattività. Vorremmo [[concepts/hope|sperare]]
@@ -874,7 +874,7 @@ uno scorrere e un tenero entusiasmo nei versi seguenti che anche nella
 Ottfried descrive le circostanze immediatamente successive alla nascita  
 di Nostro Signore. Interessantissimo è considerare l’effetto quando i  
 sentimenti sono innalzati sopra il tono naturale dalla credenza in qualcosa di  
-misterioso, mentre tutte le immagini sono puramente naturali. È allora che  
+misterioso, mentre tutte le immagini sono puramente naturali. ψ allora che  
 religione e poesia colpiscono più a fondo. Biog. Lit., 1817, i.  
 203-4.]  
 Ella diede con gioia il suo seno virgineo;  
@@ -1270,7 +1270,7 @@ Campi, foreste, antiche [[settings/mountains|montagne]], oceano, cielo,
 Con tutte le loro voci — oh oso accusare  
 La mia sorte terrena come colpevole del mio umore nero,  
 O chiamare avaro il mio destino! Oh no! no!   55  
-È la sua larghezza, e il suo traboccare,  
+ψ la sua larghezza, e il suo traboccare,  
 Che essendo incompiuto, tanto m’inquieta!  
 4  
 Ché mai tocco di letizia mi commuove il cuore,  
@@ -1632,7 +1632,7 @@ e risalire al Cielo, Erede prodigo del Cielo!   20
 [[concepts/charity|CARITÀ]]  
 Che è l’[[motifs/soul|anima]] dell’Uomo priva d’[[motifs/love|Amore]]?  
 [[concepts/hope|SPERANZA]].  [[concepts/faith|FEDE]]  
-È come un’Arpa scordata,  
+ψ come un’Arpa scordata,  
 che suona, sì, ma suona a sproposito.  
 [[concepts/charity|CARITÀ]].  [[concepts/hope|SPERANZA]]  
 Dal santo [[motifs/love|Amore]] derivano tutti i buoni doni.  
@@ -2338,7 +2338,7 @@ della vera vita! — Muovano dunque terra, mare e cielo
 guerra contro di me! Sul mio cuore mostro   10  
 il sigillo del loro possente signore. Invano tentano  
 di por fine alla mia vita, ché possono por fine solo al suo affanno. —  
-È letto di [[motifs/death|morte]] quello dove giace un cristiano? —  
+ψ letto di [[motifs/death|morte]] quello dove giace un cristiano? —  
 Sì! ma non suo — è la [[motifs/death|Morte]] stessa che là muore.  
 1833.
 
@@ -2621,7 +2621,7 @@ and D. W., 1877, ii. 367.
 
 Curious instance of casual metre and rhyme in a prose narrative (The  
 Life of Jerome of Prague). The metre is Amphibrach dimeter Catalectic  
-Ø ¯ Ø | Ø ¯, and the rhymes antistrophic.  
+˘ ί ˘ ὼ ˘ ¯, and the rhymes antistrophic.  
 Then Jerome did call       a  
 From his flame-pointed Fence;       b  
 Which under he trod,       c  
@@ -2639,7 +2639,7 @@ July 7, 1826. Now first published from an MS.
 
 Curioso esempio di metro e rima casuali in una narrazione in prosa (The  
 Life of Jerome of Prague). Il metro è dimetro anfibraco catalettico  
-Ø ¯ Ø | Ø ¯, e le rime sono antistrofiche.  
+˘ ί ˘ ὼ ˘ ¯, e le rime sono antistrofiche.  
 Allora Girolamo chiamò       a  
 dal suo Recinto a punte di fiamma;       b  
 che sotto calpestava,       c  

@@ -27,8 +27,8 @@ tags:
 
 ## Testo integrale / Full text
 
-E coelo descendit ³½ö¸¹ Ãµ±ÅÄy½. — JUVENAL, xi. 27.  
-“½ö¸¹ Ãµ±ÅÄy½! — and is this the prime  
+E coelo descendit γνῶθι σεαυτόν. — JUVENAL, xi. 27.  
+“νῶθι σεαυτόν! — and is this the prime  
 And heaven-sprung adage of the olden time! —  
 Say, canst thou make thyself? — Learn first that trade; —  
 Haply thou mayst know what thyself had made.  

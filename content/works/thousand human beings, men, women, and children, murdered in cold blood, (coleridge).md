@@ -75,8 +75,8 @@ Ode. First published as The Recantation: an Ode], a kind of
 Palinodia.’ MS. Note by S. T. C.
 Title] Ode for the last day of the Year 1796, C. I.: Ode on the
 Departing Year 4{o}, 1797, 1803, S. L., 1817, 1828, 1829.
-Motto] 3-5 All editions (4{o} to 1834) read Æ·¼w¿¹Â for ´ÅÃÆÁ¿¹¼w¿¹Â,
-and ³±½ ³’ for ³±½; and all before 1834 ¼·½ for ¼’ ½.
+Motto] 3-5 All editions (4{o} to 1834) read φημίοις for δυσφροιμίοις,
+and γαν γ’ for γαν; and all before 1834 μην for μ’ ν.
 I] Strophe I C. I., 4{o}, 1797, 1803.
 When lo! far onwards waving on the wind
 I saw the skirts of the DEPARTING YEAR.
@@ -130,8 +130,8 @@ to uncurl his lips, and propose to the lofty Republic to
 restore all its conquests, and to suffer England to
 retain all hers (at least all her important ones), as
 the only terms of Peace, and the ultimatum of the negotiation!
-˜Á±Ã{½µ¹ ³pÁ ±0ÃÇÁy¼·Ä¹Â
-¤q»±¹½±  ‘¡‘šŸ ‘ ÀÁÉÄ¿Àu¼É½ — AESCHYL., Ag. 222-4.
+Θρασύνει γὰρ αἰσχρόμητις
+Τάλαινα  ‘ΡΑΚΟ ‘ πρωτοπήμων — AESCHYL., Ag. 222-4.
 The friends of Freedom in this country are idle. Some are
 timid; some are selfish; and many the torpedo torch of
 hopelessness has numbed into inactivity. We would fain hope

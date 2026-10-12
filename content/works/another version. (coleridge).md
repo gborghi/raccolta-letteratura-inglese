@@ -43,13 +43,13 @@ concluding lines are illegible.
 Poole, ‘Reply of Coleridge on my urging him to exert himself.’ First  
 collected in 1893.  
 following quotation from The Select Discourses by John Smith, 1660: —  
-‘So the Sibyl was noted by Heraclitus as ¼±¹½¿¼s½ó ÃÄy¼±Ä¹ ³µ»±ÃÄp º±v  
-º±»»}À¹ÃÄ± Æ¸µ³³¿¼s½·, as one speaking ridiculous and unseemly speeches  
+‘So the Sibyl was noted by Heraclitus as μαινομένῳ στόματι γελαστὰ καὶ  
+καλλώπιστα φθεγγομένη, as one speaking ridiculous and unseemly speeches  
 with her furious mouth.’ The fragment is misquoted and misunderstood:  
-for ³µ»±ÃÄq, etc. should be ¼{Á¹ÃÄ± unperfumed, inornate lays, not  
+for γελαστά, etc. should be μύριστα unperfumed, inornate lays, not  
 redolent of art. — Render it thus:  
 Not her’s, etc.  
-£Äy¼±Ä¹ ¼±¹½¿¼s½ó is ‘with ecstatic mouth’.  
+Στόματι μαινομένῳ is ‘with ecstatic mouth’.  
 J. D. Campbell in a note to this Fragment (P. W., 1893, pp. 464-5)  
 quotes the ‘following prose translation of the same passage’, from  
 Coleridge’s Statesman’s Manual (1816, p. 132); ‘Multiscience (or a  

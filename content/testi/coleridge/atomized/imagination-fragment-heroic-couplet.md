@@ -129,7 +129,7 @@ Bagni tu su quella ricca Nube le tue penne lucenti
 In Fiumi di Luce ardenti d’ambra?  
 O, folle di [[characters/speed|velocità]], insegui la traccia del Giorno   5  
 In altri mondi a salutare il Raggio del mattino?  
-È [[motifs/time|tempo]] d’ordinare ai Piaceri sbiaditi e ombrosi di muoversi  
+ψ [[motifs/time|tempo]] d’ordinare ai Piaceri sbiaditi e ombrosi di muoversi  
 Su ali d’ombrosa [[motifs/memory|Memoria]] attraverso l’[[motifs/soul|Anima]] d’[[motifs/love|Amore]];  
 E al tuo di gettare sulle gelide pianure dell’[[motifs/winter|Inverno]]  
 Ogni fiore che cinge le Chiome spiranti della [[motifs/spring|Primavera]],   10  
@@ -340,7 +340,7 @@ Ritmo in ogni pensiero, e letizia dappertutto —
 Mi pare che sarebbe stato impossibile   30  
 Non [[motifs/love|amare]] tutte le cose in un mondo così ricolmo;  
 Dove la brezza gorgheggia, e l’aria muta e immota  
-È Musica che dorme sul suo strumento.  
+ψ Musica che dorme sul suo strumento.  
 E così, [[motifs/love|Amore]] mio! come sul pendio a mezza costa  
 Di quel [[motifs/hill|colle]] laggiù distendo le membra a [[motifs/noon|mezzogiorno]],   35  
 Mentre attraverso le palpebre socchiuse contemplo  
@@ -912,7 +912,7 @@ Nessun luogo così angusto, purché vi sia la [[concepts/nature|Natura]],
 Nessuna landa così vuota, che non possa [[motifs/well|bene]] impiegare  
 Ogni facoltà del senso, e tenere il cuore  
 Desto all’[[motifs/love|Amore]] e alla [[concepts/beauty|Bellezza]]! e talvolta  
-È [[motifs/well|bene]] esser privati del bene promesso,   65  
+ψ [[motifs/well|bene]] esser privati del bene promesso,   65  
 Perché possiamo sollevare l’[[motifs/soul|anima]], e contemplare  
 Con viva gioia le gioie che non possiamo condividere.  
 Mio Charles dal cuore gentile! quando l’ultima cornacchia  
@@ -979,8 +979,8 @@ The pool becomes a [[motifs/mirror|mirror]].
 [From The Picture; or, the [[archetypes/lover|Lover]]’s Resolution, II. 91-100.]  
 Yet from the still surviving recollections in his mind, the  
 Author has frequently purposed to finish for himself what had  
-been originally, as it were, given to him. £±¼µÁ¿½ ±´¹¿½ ±ÃÉ  
-[‘TÁ¹¿½ ´¹¿½ ÃÉ 1834]: but the to-morrow is yet to come.  
+been originally, as it were, given to him. Σαμερον αδιον ασω  
+[‘ὔριον διον σω 1834]: but the to-morrow is yet to come.  
 As a contrast to this vision, I have annexed a [[forms/fragment|fragment]] of a  
 very different character, describing with equal fidelity the   50  
 dream of [[motifs/pain|pain]] and disease.  
@@ -1079,7 +1079,7 @@ tutto il resto era svanito come le immagini sulla
 superficie d’un ruscello in cui sia stata gettata una pietra, ma, ahimè!  
 senza il successivo ricomporsi di quelle!  
 Allora tutto l’incanto  
-È spezzato — tutto quel mondo di [[characters/phantom|fantasmi]] così bello  
+ψ spezzato — tutto quel mondo di [[characters/phantom|fantasmi]] così bello  
 Svanisce, e mille cerchietti si spandono,  
 E ciascuno deforma l’altro. Attendi un poco,  
 Povero giovane! che appena osi levare gli occhi —  
@@ -1091,8 +1091,8 @@ La pozza ridiventa uno [[motifs/mirror|specchio]].
 [Da The Picture; or, the [[archetypes/lover|Lover]]’s Resolution, vv. 91-100.]  
 Pure dai ricordi ancora superstiti nella sua mente, l’  
 Autore ha spesso avuto il proposito di finire da sé ciò che gli era  
-stato in origine, per così dire, donato. £±¼µÁ¿½ ±´¹¿½ ±ÃÉ  
-[‘TÁ¹¿½ ´¹¿½ ÃÉ 1834]: ma il domani deve ancora venire.  
+stato in origine, per così dire, donato. Σαμερον αδιον ασω  
+[‘ὔριον διον σω 1834]: ma il domani deve ancora venire.  
 Come contrasto a questa visione, ho aggiunto un [[forms/fragment|frammento]] di  
 carattere assai diverso, che descrive con eguale fedeltà il   50  
 sogno del [[motifs/pain|dolore]] e della malattia.  
@@ -1993,8 +1993,8 @@ The moaning [[motifs/wind|Wind]] —
 Hide with sere [[motifs/leaves|leaves]] my [[motifs/grave|Grave]]’s undaisied Slope.  
 (?) October. 1814.  
 [It would be better to alter this metre —  
-10´ 6‘ 6´ 10‘ | 11´ 4‘ 11´ 4‘: and still more plaintive if the 1st and  
-4th were 11´ 11´ as [[motifs/well|well]] as the 5th and 7th.]  
+ἱἰδ 6‘ ἶδ 10‘ | ἱἱδ 4‘ ἱἱδ 4‘: and still more plaintive if the 1st and  
+4th were ἱἱδ ἱἱδ as [[motifs/well|well]] as the 5th and 7th.]  
 Now first published from an MS.  
 
 
@@ -2010,8 +2010,8 @@ Il [[motifs/wind|Vento]] che geme —
 Copri con [[motifs/leaves|foglie]] secche il Pendio senza margherite della mia [[motifs/grave|Tomba]].  
 (?) ottobre. 1814.  
 [Sarebbe meglio alterare questo metro —  
-10´ 6‘ 6´ 10‘ | 11´ 4‘ 11´ 4‘: e ancor più lamentoso se il 1° e il  
-4° fossero 11´ 11´ [[motifs/well|come]] il 5° e il 7°.]  
+ἱἰδ 6‘ ἶδ 10‘ | ἱἱδ 4‘ ἱἱδ 4‘: e ancor più lamentoso se il 1° e il  
+4° fossero ἱἱδ ἱἱδ [[motifs/well|come]] il 5° e il 7°.]  
 Ora pubblicati per la prima volta da un MS.
 
 
@@ -2084,12 +2084,12 @@ Why stays my [[motifs/love|Love]]?
 4. Repeated from 2.
 5, 6, 7. A triplet of 4 Trochees — 8 repeated.  
 First published from an MS. in 1893.  
-¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯ Ø Ø  
-¯ Ø, ¯ Ø Ø, ¯ Ø Ø,  
-¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯ Ø Ø  
-Ø ¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯  
-¯ Ø Ø, ¯ Ø  
-Ø ¯ Ø Ø, ¯ Ø etc.  
+¯ ˘, ί ˘ ˘, ί ˘ ˘, ί ˘ ˘  
+¯ ˘, ί ˘ ˘, ί ˘ ˘,  
+¯ ˘, ί ˘ ˘, ί ˘ ˘, ί ˘ ˘  
+˘ ί ˘, ί ˘ ˘, ί ˘ ˘, ¯  
+¯ ˘ ˘, ί ˘  
+˘ ί ˘ ˘, ί ˘ etc.  
 Songs of Shepherds and rustical Roundelays,  
 Forms of Fancies and whistled on Reeds,  
 Songs to solace young Nymphs upon Holidays  
@@ -2125,12 +2125,12 @@ Perché indugia il mio [[motifs/love|Amore]]?
 4. Ripetuto dal 2.
 5, 6, 7. Una terzina di 4 Trochei — 8 ripetuto.  
 Pubblicati per la prima volta da un MS. nel 1893.  
-¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯ Ø Ø  
-¯ Ø, ¯ Ø Ø, ¯ Ø Ø,  
-¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯ Ø Ø  
-Ø ¯ Ø, ¯ Ø Ø, ¯ Ø Ø, ¯  
-¯ Ø Ø, ¯ Ø  
-Ø ¯ Ø Ø, ¯ Ø etc.  
+¯ ˘, ί ˘ ˘, ί ˘ ˘, ί ˘ ˘  
+¯ ˘, ί ˘ ˘, ί ˘ ˘,  
+¯ ˘, ί ˘ ˘, ί ˘ ˘, ί ˘ ˘  
+˘ ί ˘, ί ˘ ˘, ί ˘ ˘, ¯  
+¯ ˘ ˘, ί ˘  
+˘ ί ˘ ˘, ί ˘ etc.  
 Canti di Pastori e rustiche Ballate,  
 Forme di Fantasie e fischiate su Canne,  
 Canti per consolare giovani Ninfe nei Giorni di festa  

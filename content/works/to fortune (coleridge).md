@@ -29,7 +29,7 @@ tags:
 
 TO THE EDITOR OF THE ‘MORNING CHRONICLE’
 SIR, — The following poem you may perhaps deem admissible into
-your journal — if not, you will commit it µ0Â 1µÁx½ ¼s½¿Â
-)Æ±wÃÄ¿¹¿. — I am, with more respect and gratitude than I
+your journal — if not, you will commit it εἰς ἱερὸν μένος
+Ἡφαίστοιο. — I am, with more respect and gratitude than I
 ordinarily feel for Editors of Papers, your obliged, &c.,
 CANTAB. — S. T. C.

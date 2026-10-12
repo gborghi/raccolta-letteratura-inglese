@@ -666,7 +666,7 @@ Thou dread ambassador from Earth to Heav’n — 75
 Great hierarch, tell thou the silent sky,
 And tell the stars, and tell the rising sun,
 Earth with her thousand voices calls on God!
-•£¤—£•.
+ΕΣΤΗΣΕ.
 K
 DEJECTION: AN ODE
 [Vide ante, p. 362.]
@@ -846,7 +846,7 @@ O simple spirit, guided from above,
 O lofty Poet, full of life and love,
 Brother and friend of my devoutest choice,
 Thus may’st thou ever, evermore rejoice!
-•£¤—£•.
+ΕΣΤΗΣΕ.
 TO W. WORDSWORTH
 (Vide ante, p. 403.)
 LINES COMPOSED, FOR THE GREATER PART ON THE NIGHT,
@@ -985,7 +985,7 @@ Eighteen hundred Twenty Three,
 Wednesday morn, and I remember
 Ten on the Clock the Hour to be
 [The Watch and Clock do both agree]   5
-An Air that whizzed ´¹p ³ºµÆq»¿Å (right across the diameter
+An Air that whizzed διὰ γκεφάλου (right across the diameter
 of my Brain) exactly like a Hummel Bee, alias Dumbeldore,
 the gentleman with Rappee Spenser (sic), with bands of Red, and
 Orange Plush Breeches, close by my ear, at once sharp and
@@ -1150,7 +1150,7 @@ And read with gentle heart! Beneath this sod
 There lies a Poet, etc.
 ‘Inscription on the Tomb-stone of one not unknown; yet more commonly
 known by the Initials of his Name than by the Name itself.’
-ESTEESE’S ±ÅÄ¿µÀ¹Ä±Æ¹¿½
+ESTEESE’S αυτοεπιταφιον
 (From a copy of the Todten-Tanz which belonged to Thomas Poole.)
 Here lies a Poet; or what once was he:
 Pray, gentle Reader, pray for S. T. C.

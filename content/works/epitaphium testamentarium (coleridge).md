@@ -30,11 +30,11 @@ tags:
 
 ## Testo integrale / Full text
 
-¤x Ä¿æ £¤—£• Ä¿æ À¹¸±½¿æÂ Epitaphium testamentarium ±PÄy³Á±Æ¿½.  
+Τὸ τοῦ ΣΤΗΣΕ τοῦ πιθανοῦς Epitaphium testamentarium αὐτόγραφον.  
 Quae linquam, aut nihil, aut nihili, aut vix sunt mea. Sordes  
 Do Morti: reddo caetera, Christe! tibi.  
 1826.  
-ÁÉÂ µv »q»·¸Á¿Â Ä±ÖÁ¿Â  
+ρως εὶ λάληθρος ταῖρος  
 In many ways does the full heart reveal  
 The presence of the love it would conceal;  
 But in far more th’ estrangéd heart lets know  

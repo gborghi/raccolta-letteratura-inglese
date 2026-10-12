@@ -589,7 +589,7 @@ Then die — if die you dare!
 
 <span class="qlang-split" data-lang="it"></span>
 
-È tornata come fu mandata? Non è peggiorata dall’uso?   5  
+ψ tornata come fu mandata? Non è peggiorata dall’uso?   5  
 Pensa prima a ciò che sei! Richiama alla mente ciò che eri!  
 Ti diedi innocenza, ti diedi [[concepts/hope|speranza]],  
 ti diedi salute, e ingegno, e ampio spazio.  
@@ -675,8 +675,8 @@ l’essere del tuo essere è contraddizione.
 <span class="atom-split" data-atom="298_self-knowledge" data-title="SELF-KNOWLEDGE" data-chapter="" data-kind="intro"></span>
 
 
-E coelo descendit ³½ö¸¹ Ãµ±ÅÄy½. — JUVENAL, xi. 27.  
-“½ö¸¹ Ãµ±ÅÄy½! — and is this the prime  
+E coelo descendit γνῶθι σεαυτόν. — JUVENAL, xi. 27.  
+“νῶθι σεαυτόν! — and is this the prime  
 And heaven-sprung adage of the olden [[motifs/time|time]]! —  
 Say, canst thou make thyself? — Learn first that trade; —  
 Haply thou mayst know what thyself had made.  
@@ -691,8 +691,8 @@ Ignore thyself, and strive to know thy God!   10
 
 <span class="qlang-split" data-lang="it"></span>
 
-E coelo descendit ³½ö¸¹ Ãµ±ÅÄy½. — GIOVENALE, xi. 27.  
-“½ö¸¹ Ãµ±ÅÄy½! — e questo è il primo  
+E coelo descendit γνῶθι σεαυτόν. — GIOVENALE, xi. 27.  
+“νῶθι σεαυτόν! — e questo è il primo  
 e celeste adagio dell’antico [[motifs/time|tempo]]! —  
 Di’: sai fare te stesso? — Impara prima quel mestiere; —  
 forse potrai conoscere ciò che tu stesso avessi fatto.  
@@ -737,13 +737,13 @@ The fifteenth day, if right I do remember.
 15th Nov. 1814. Ashley, Box, Bath.  
 First published in Lit. Rem., iii. 57. First collected P. and D. W.,  
 1877, ii. 387.  
-•“©•š‘™ ‘  
+ΕΓΩΕΚΑΙ ‘  
 The following burlesque on the Fichtean Egoismus may, perhaps, be  
 amusing to the few who have studied the system, and to those who are  
 unacquainted with it, may convey as tolerable a likeness of Fichte’s  
 idealism as can be expected from an avowed caricature. [S. T. C.]  
 The Categorical Imperative, or the annunciation of the New Teutonic God,  
-•“©•š‘™ ‘: a dithyrambic Ode, by QUERKOPF VON KLUBSTICK, Grammarian,  
+ΕΓΩΕΚΑΙ ‘: a dithyrambic Ode, by QUERKOPF VON KLUBSTICK, Grammarian,  
 and Subrector in Gymnasio. . . .  
 Eu! Dei vices gerens, ipse Divus,  
 (Speak English, Friend!) the God Imperativus,  
@@ -811,13 +811,13 @@ il giorno quindicesimo, se ben ricordo.
 15 nov. 1814. Ashley, Box, Bath.  
 Pubblicata per la prima volta in Lit. Rem., iii. 57. Prima raccolta in P. and D. W.,  
 1877, ii. 387.  
-•“©•š‘™ ‘  
+ΕΓΩΕΚΑΙ ‘  
 Il seguente scherzo burlesco sull’Egoismus fichtiano potrà forse  
 divertire i pochi che hanno studiato il sistema, e a coloro che  
 non lo conoscono potrà dare dell’idealismo di Fichte una somiglianza  
 tollerabile quanto ci si può attendere da una dichiarata caricatura. [S. T. C.]  
 L’Imperativo Categorico, ossia l’annuncio del Nuovo Dio Teutonico,  
-•“©•š‘™ ‘: Ode ditirambica, di QUERKOPF VON KLUBSTICK, Grammatico,  
+ΕΓΩΕΚΑΙ ‘: Ode ditirambica, di QUERKOPF VON KLUBSTICK, Grammatico,  
 e Subrettore in Gymnasio. . . .  
 Eu! Dei vices gerens, ipse Divus,  
 (Parla inglese, Amico!) il Dio Imperativus,  
@@ -831,7 +831,7 @@ tutte le anime e tutti i corpi sono Io stesso Io!
 Tutto Io stesso Io!  
 (Sciocchi! tregua con questo trasalire!)  
 Tutto il mio Io! tutto il mio Io!  
-È un cane d’eretico chi solo aggiunga Betty Martin!’  
+ψ un cane d’eretico chi solo aggiunga Betty Martin!’  
 Così gridò il Dio con alto tono imperiale:  
 in veste della più rigida cerimonia, che si beffava della [[concepts/beauty|bellezza]],  
 splendeva pronome-verbo imperativo —  

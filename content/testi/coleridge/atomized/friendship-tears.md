@@ -168,7 +168,7 @@ tanto arduo e gravoso ti pare il compito
 di tessere [[motifs/flowers|fiori]] che non appassiscono! Ma bada:  
 ché tu sei vulnerabile, ragazzo dall'occhio selvaggio,   15  
 e io ho frecce misticamente intinte  
-tali da fermare la tua [[characters/speed|corsa]]. È morto il tuo Burns?  
+tali da fermare la tua [[characters/speed|corsa]]. ψ morto il tuo Burns?  
 E morrà non pianto, e sprofonderà in terra  
 ‘senza il premio d'una lacrima melodiosa’?  
 Il tuo Burns, il bardo prediletto della [[concepts/nature|Natura]],   20  
@@ -477,7 +477,7 @@ col mio stesso riso soffocavo il mio stesso spirito.
 <span class="atom-split" data-atom="394_profuse_kindness" data-title="PROFUSE KINDNESS" data-chapter="" data-kind="intro"></span>
 
 
-uÀ¹¿¹ ¿P´r 4Ã±Ã¹½ EÃó À»s¿½ À»s¿½ %¼¹ÃÅ Àq½Ä¿Â.  
+ήπιοι οὐδὲ ἴσασιν ὅσῳ πλέον πλέον ἥμισυ πάντος.  
 HESIOD. [Works and Days, l. 40.]  
 What a [[motifs/spring|spring]]-tide of [[motifs/love|Love]] to dear friends in a shoal!  
 Half of it to one were worth [[topoi/double|double]] the whole!  
@@ -498,7 +498,7 @@ inscribed on a fly-leaf of Tom. II of Benedetto Menzini’s Poesie,
 
 <span class="qlang-split" data-lang="it"></span>
 
-uÀ¹¿¹ ¿P´r 4Ã±Ã¹½ EÃó À»s¿½ À»s¿½ %¼¹ÃÅ Àq½Ä¿Â.  
+ήπιοι οὐδὲ ἴσασιν ὅσῳ πλέον πλέον ἥμισυ πάντος.  
 ESIODO. [Le opere e i giorni, v. 40.]  
 Che marea di [[motifs/spring|primavera]] d'[[motifs/love|Amore]] per cari amici in frotta!  
 La metà a uno solo varrebbe il [[topoi/double|doppio]] del tutto!  

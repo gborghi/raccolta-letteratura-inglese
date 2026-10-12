@@ -232,7 +232,7 @@ Thoughtful, with quiet [[motifs/tears|tears]] upon his cheek.   40
 
 <span class="qlang-split" data-lang="it"></span>
 
-È vero, Idoloclaste Satirane!  
+ψ vero, Idoloclaste Satirane!  
 (Così chiamatelo, ché così, mescendo biasimo a lode,  
 e sorrisi a sguardi ansiosi, i suoi primi amici,  
 mascherando il suo nome di nascita, solevano designare  
@@ -360,7 +360,7 @@ could have run ‘drunk with wine’ together as one foot.
 2. Admirable! I hardly know better trochaics.
 3. Very interesting: but the terminology odd. The dochmius, a
 five-syllabled foot, is (in one form — there are about thirty!) an
-antispast Ø ¯ ¯ Ø plus a syllable. Catalectic means (properly)
+antispast ˘ ¯ ¯ ˘ plus a syllable. Catalectic means (properly)
 minus a syllable. But the verses as quantified are really dochmiac,
 and the only attempts I have seen. Shall I own I can’t get any
 English Rhythm on them?
@@ -379,7 +379,7 @@ leetle ‘Moorish’.
 T. C. had to be always.
 10 and 11. Ditto.
 13. Again, I should say, anapaestic — but this anapaest and amphibrach
-quarrel is ÃÀ¿½´¿Â.
+quarrel is σπονδος.
 
 
 <span class="qlang-split" data-lang="it"></span>
@@ -393,7 +393,7 @@ potesse far correre ‘drunk with wine’ insieme come un piede solo.
 2. Ammirevole! Non conosco quasi trochei migliori.
 3. Molto interessante: ma la terminologia è strana. Il dochmio, piede
 di cinque sillabe, è (in una forma — ce ne sono una trentina!) un
-antispasto Ø ¯ ¯ Ø più una sillaba. Catalettico significa (propriamente)
+antispasto ˘ ¯ ¯ ˘ più una sillaba. Catalettico significa (propriamente)
 meno una sillaba. Ma i versi, così quantificati, sono davvero docmiaci,
 e gli unici tentativi che abbia visto. Devo confessare che non riesco a cavarne alcun
 Ritmo inglese?
@@ -412,7 +412,7 @@ tantinello ‘Moresco’.
 T. C. doveva sempre essere.
 10 e 11. Idem.
 13. Di nuovo, direi, anapestico — ma questa contesa tra anapesto e anfibraco
-è ÃÀ¿½´¿Â.
+è σπονδος.
 
 
 

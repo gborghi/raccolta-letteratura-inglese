@@ -39,7 +39,7 @@ Author. A mere evasion!
 Friend. And you spell so bad,  
 That what I read I could not understand.  
 First published in Morning Post, Oct. 11, 1802.  
-œÉÁ¿Ã¿Æw± OR WISDOM IN FOLLY  
+Μωροσοφία OR WISDOM IN FOLLY  
 Tom Slothful talks, as slothful Tom beseems,  
 What he shall shortly gain and what be doing,  
 Then drops asleep, and so prolongs his dreams  

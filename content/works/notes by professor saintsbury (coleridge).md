@@ -37,7 +37,7 @@ could have run ‘drunk with wine’ together as one foot.
 2. Admirable! I hardly know better trochaics.
 3. Very interesting: but the terminology odd. The dochmius, a
 five-syllabled foot, is (in one form — there are about thirty!) an
-antispast Ø ¯ ¯ Ø plus a syllable. Catalectic means (properly)
+antispast ˘ ¯ ¯ ˘ plus a syllable. Catalectic means (properly)
 minus a syllable. But the verses as quantified are really dochmiac,
 and the only attempts I have seen. Shall I own I can’t get any
 English Rhythm on them?
@@ -56,4 +56,4 @@ leetle ‘Moorish’.
 T. C. had to be always.
 10 and 11. Ditto.
 13. Again, I should say, anapaestic — but this anapaest and amphibrach
-quarrel is ÃÀ¿½´¿Â.
+quarrel is σπονδος.

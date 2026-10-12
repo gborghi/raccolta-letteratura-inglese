@@ -83,8 +83,8 @@ The pool becomes a mirror.
 [From The Picture; or, the Lover’s Resolution, II. 91-100.]  
 Yet from the still surviving recollections in his mind, the  
 Author has frequently purposed to finish for himself what had  
-been originally, as it were, given to him. £±¼µÁ¿½ ±´¹¿½ ±ÃÉ  
-[‘TÁ¹¿½ ´¹¿½ ÃÉ 1834]: but the to-morrow is yet to come.  
+been originally, as it were, given to him. Σαμερον αδιον ασω  
+[‘ὔριον διον σω 1834]: but the to-morrow is yet to come.  
 As a contrast to this vision, I have annexed a fragment of a  
 very different character, describing with equal fidelity the   50  
 dream of pain and disease.  

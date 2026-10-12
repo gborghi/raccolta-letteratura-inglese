@@ -58,7 +58,7 @@ tags:
 
 
 ZAPOLYA: A CHRISTMAS TALE IN TWO PARTS
- pÁ ÀÅÁv ÇÁt Ä¿¹±æÄ± »s³µ¹½ Çµ¹¼ö½¿Â ½ eÁ³.
+ ὰρ πυρὶ χρὴ τοιαῦτα λέγειν χειμῶνος ν ὥργ.
 APUD ATHENAEUM.
 CONTENTS
 ADVERTISEMENT

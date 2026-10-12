@@ -30,9 +30,9 @@ tags:
 ## Testo integrale / Full text
 
 (Nubes 315, 317.)  
-¼µ³q»±¹ ¸µ±v ½´ÁqÃ¹½ Á³¿ÖÂ,  
-±5ÀµÁ ³½}¼·½ º±v ´¹q»µ¾¹½ º±v ½¿æ½ !¼Ö½ À±ÁsÇ¿ÅÃ¹  
-º±v ÄµÁ±Äµw±½ º±v ÀµÁw»µ¾¹½ º±v ºÁ¿æÃ¹½ º±v º±Ä±»·È¹½.  
+μεγάλαι θεαὶ νδράσιν ργοῖς,  
+αἵπερ γνώμην καὶ διάλεξιν καὶ νοῦν ἡμῖν παρέχουσι  
+καὶ τερατείαν καὶ περίλεξιν καὶ κροῦσιν καὶ καταληψιν.  
 For the ancients . . . had their glittering VAPORS, which (as the comic  
 poet tells us) fed a host of sophists.  
 Great goddesses are they to lazy folks,  
