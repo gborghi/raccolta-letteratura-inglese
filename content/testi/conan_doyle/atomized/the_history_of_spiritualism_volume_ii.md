@@ -44,7 +44,7 @@ APPENDIX
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/soul"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER I — THE CAREER OF EUSAPIA PALLADINO" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/soul"></span>
 
 
 CHAPTER I
@@ -137,7 +137,7 @@ Eusapia presentava una particolare deformità del osso parietale, causata, si di
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/ghosts,motif/soul,concept/immortality_of_the_soul,concept/spiritualism,setting/london"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER II — GREAT MEDIUMS FROM 1870 TO 1900: CHARLES H. FOSTER-MADAME D’ESPERANCE-WILLIAM EGLINTON-STAINTON MOSES" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/ghosts,motif/soul,concept/immortality_of_the_soul,concept/spiritualism,setting/london"></span>
 
 
 CHAPTER II
@@ -335,7 +335,7 @@ I vari medium menzionati in questo capitolo rappresentano i diversi tipi di capa
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/soul,concept/spiritualism,setting/london"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER III — THE SOCIETY FOR PSYCHICAL RESEARCH" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/soul,concept/spiritualism,setting/london"></span>
 
 
 CHAPTER III
@@ -563,7 +563,7 @@ Tuttavia, alla fine dei conti, il mondo è migliorato grazie all’esistenza del
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/spiritualism,setting/italy,setting/london"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER IV — ECTOPLASM" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/spiritualism,setting/italy,setting/london"></span>
 
 
 CHAPTER IV
@@ -731,7 +731,7 @@ Esistono altre proprietà delle protruzioni ectoplasmatiche che meritano di esse
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/ghosts,motif/soul,concept/spiritualism,setting/london"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER V — SPIRIT PHOTOGRAPHY" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/ghosts,motif/soul,concept/spiritualism,setting/london"></span>
 
 
 CHAPTER V
@@ -903,7 +903,7 @@ Nei suoi esperimenti con Hope, l’autore sembra essere riuscito a cogliere il p
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="concept/spiritualism,setting/london"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER VI — VOICE MEDIUMSHIP AND MOULDS" data-chapter="Chapter 06" data-kind="chapter" data-tags="concept/spiritualism,setting/london"></span>
 
 
 CHAPTER VI
@@ -1066,7 +1066,7 @@ Niente può costituire una prova per coloro che sono così pieni di pregiudizi d
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/soul,motif/supernatural,concept/spiritualism,setting/italy,setting/london"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER VII — FRENCH, GERMAN, AND ITALIAN SPIRITUALISM" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/soul,motif/supernatural,concept/spiritualism,setting/italy,setting/london"></span>
 
 
 CHAPTER VII
@@ -1294,7 +1294,7 @@ There was, however, a strong minority who saw the full meaning of the revelation
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/prophet,motif/soul,concept/spiritualism,setting/london"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER VIII — SOME GREAT MODERN MEDIUMS" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/prophet,motif/soul,concept/spiritualism,setting/london"></span>
 
 
 CHAPTER VIII
@@ -1427,7 +1427,7 @@ Se l’autore ha inserito questa breve nota nella sezione dedicata alle esperien
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="concept/spiritualism,setting/italy,setting/london"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER IX — SPIRITUALISM AND THE WAR" data-chapter="Chapter 09" data-kind="chapter" data-tags="concept/spiritualism,setting/italy,setting/london"></span>
 
 
 CHAPTER IX
@@ -1599,7 +1599,7 @@ Finalmente uno di loro mi chiese se avessi visto qualcosa nei campi; allora gli 
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/soul,motif/supernatural,concept/spiritualism,histref/christianity,setting/london"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER X — THE RELIGIOUS ASPECT OF SPIRITUALISM" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/soul,motif/supernatural,concept/spiritualism,histref/christianity,setting/london"></span>
 
 
 CHAPTER X
@@ -1818,7 +1818,7 @@ Qui possiamo fermarci. Questa storia ha cercato di mostrare come i governanti in
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/ghosts,motif/soul,concept/spiritualism"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER XI — THE AFTER-LIFE AS SEEN BY SPIRITUALISTS (1/2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/ghosts,motif/soul,concept/spiritualism"></span>
 
 
 CHAPTER XI
@@ -1915,7 +1915,7 @@ Un paradiso così semplice e quotidiano potrebbe sembrare materiale a molti, ma 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/prophet,motif/supernatural,concept/spiritualism,setting/london"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — CHAPTER XI — THE AFTER-LIFE AS SEEN BY SPIRITUALISTS (2/2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/prophet,motif/supernatural,concept/spiritualism,setting/london"></span>
 
 
 APPENDIX
