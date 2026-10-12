@@ -6492,7 +6492,7 @@ Al mattino arriva dove tramonta il sole; e colui che ti accoglie, spesso rifiuta
 
 THE ENGLISH OF IT
 
-PRO PIETATE TUÂ inceptum frustratur, amore Antiqui Ritus alto sub Numine Romae.
+PRO PIETATE TUA inceptum frustratur, amore Antiqui Ritus alto sub Numine Romae.
 
 LECTOR. What Hoggish great Participles!
 

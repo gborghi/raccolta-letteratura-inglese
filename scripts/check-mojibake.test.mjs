@@ -19,3 +19,14 @@ test("clean text is not flagged", () => {
   for (const s of ["Σαμερον αδιον ασω", "café mêlée Napoléon £5 ½ mile", "sa la strada.  ······  Quando", "Ἀνάγκη", "ÎLE-DE-FRANCE"])
     assert.equal(hits(MOJIBAKE, s), 0, s)
 })
+
+import { EXTRA_MOJIBAKE, mask } from "./check-mojibake.mjs"
+const all = (s) => hits(MOJIBAKE, mask(s))
+test("residual shapes are caught", () => {
+  for (const s of ["±¿", "´¶", "wh¿n", "¿the", "x¹È", "1T[t", "Âpres", "±¹½"]) assert.ok(all(s) >= 1, s)
+  assert.ok(hits(EXTRA_MOJIBAKE, "a¿b") >= 1)
+})
+test("real words and footnote marks are not flagged", () => {
+  for (const s of ["CHÂTILLON", "FLÂNEURS", "THÉÂTRE", "MAÎTRE", "Île de la Cité", "Âppott", "Åppott", "di moda, ¹Questa via", "¹Dev’essere", "e una ¹È caratteristico", "½ mile", "1T"])
+    assert.equal(all(s), 0, s)
+})

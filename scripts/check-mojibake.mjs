@@ -12,7 +12,17 @@ import { fileURLToPath } from "node:url"
 //  - lead byte lost (legacy Greek font, Kubla Khan "£±¼µÁ¿½"): a run of 3+ chars from
 //    £ ± ² ³ ´ µ ¶ ¸ ¹ º » ¼ ½ ¾ ¿ À–É (U+00B7 · excluded: "······" is a real dot leader).
 export const GREEK_MOJIBAKE = /[ÎÏ][\u0080-\u00BF]|[\u00A3\u00B1-\u00B6\u00B8-\u00C9]{3,}/g
-export const MOJIBAKE = new RegExp(/Ã[^\s]|â€|Â£|\uFFFD/.source + "|" + GREEK_MOJIBAKE.source, "g")
+// Residual shapes (Clio, recheck 2026-10-12): Greek/Latin-1 pairs, ¿ glued to a letter,
+// superscript digit glued to a capital inside a word (a footnote mark after a space or
+// at line start, "e ¹Il termine" in Robespierre, is real and not flagged), OCR "1T[" and Â + lowercase.
+export const EXTRA_MOJIBAKE = /[´¿¶½±µ][¿¹½±µÁÃÄÅÆÇÈÉ´¶]|(?<=\S)¹[¿¹½±µÁÃÄÅÆÇÈÉ´¶]|[a-z]¿|¿[a-z]|(?<=[^\s"«(*>])[¹²³][A-ZÀ-Ý]|\d[A-Z]\[|Â[a-z]/g
+// Real words these shapes would catch; blanked out before matching.
+export const ALLOW = /CHÂTILLON|FLÂNEURS|THÉÂTRE|MAÎTRE|Île|[ÂÅ]ppott/gi
+export const MOJIBAKE = new RegExp(
+  [/Ã[^\s]|â€|Â£|\uFFFD/.source, GREEK_MOJIBAKE.source, EXTRA_MOJIBAKE.source].join("|"),
+  "g",
+)
+export const mask = (s) => s.replace(ALLOW, (m) => " ".repeat(m.length))
 
 export function scan(dir) {
   const hits = []
@@ -21,7 +31,7 @@ export function scan(dir) {
       const p = path.join(d, e.name)
       if (e.isDirectory()) walk(p)
       else if (e.name.endsWith(".md")) {
-        const s = fs.readFileSync(p, "utf8")
+        const s = mask(fs.readFileSync(p, "utf8"))
         const m = s.match(MOJIBAKE)
         if (m) {
           const i = s.search(MOJIBAKE)

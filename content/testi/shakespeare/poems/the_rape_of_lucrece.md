@@ -1896,36 +1896,6 @@ Which being done with speedy diligence,
 The Romans plausibly did give consent  
 To [[characters/tarquin|Tarquin]]’s everlasting banishment.  
 
-[[characters/edward-iii|EDWARD III]]  
-BY WILLIAM SHAKESPEARE AND OTHERS  
-FIRST heard of in the Stationers’ Register for I December 1595, The Reign of [[archetypes/king|King]] Edward the Third was published anonymously in the following year, with the statement that it had been ‘sundry times played about the [[motifs/city|City]] of [[settings/london|London]]’. As was usual, there are no act and scene divisions; we divide it only into scenes. It could have been written at any [[motifs/time|time]] between the Armada of 1588 and 1595. Like other plays of this period, including Shakespeare’s I [[characters/henry-vi|Henry VI]], [[characters/richard-ii|Richard II]], and [[characters/king-john|King John]], it is composed entirely in verse, much of it formal and rhetorical in style. Shakespeare seems at least to have known the play, since a historical error placing [[archetypes/king|King]] David of Scotland among Edward’s prisoners at Calais (10.40-56, 18.63.1) occurs also in [[characters/henry-v|Henry V]] (1.2.160-2). The play’s omission from the First Folio is good presumptive evidence against Shakespeare’s sole authorship. It was, however, attributed to him in a totally unreliable catalogue of 1656; better worth taking seriously is the attribution to Shakespeare by Edward Capell, expressed in 1760. Since then various scholars have proposed that Shakespeare wrote at least the scenes involving the [[characters/countess-of-salisbury|Countess of Salisbury]] (Scene 2, Scene 3). When the [[settings/oxford|Oxford]] edition first appeared, its editors remarked that ‘if we had attempted a thorough reinvestigation of candidates for inclusion in the early dramatic canon, it would have begun with [[characters/edward-iii|Edward III]]’ (Textual Companion, p. 137). Since then intensive application of stylometric and other tests of authorship, along with an increased willingness to acknowledge that Shakespeare collaborated with other writers, especially early and late in his career, has strengthened the case for including it among the collected works. We believe, however, that Shakespeare was responsible only for Scene 2 (from the entrance of [[characters/edward-iii|Edward III]]) and Scene 3, and for Scene 12 (which includes a [[characters/hamlet|Hamlet]]-like meditation on the inevitability of [[motifs/death|death]]), and possibly Scene 13, and that one or more other authors wrote the rest of the play.  
-The play’s treatment of [[concepts/history|history]], deriving principally from Lord Berners’s [[forms/translation|translation]] (1535) of Froissart’s Chronicles, is loose. As with [[characters/henry-v|Henry V]], the opening episode shows the English [[archetypes/king|king]] seeking reassurance about his claims to the throne of France. Lorraine’s subsequent demand that Edward swear allegiance to the French [[archetypes/king|king]] meets with derision. Attention turns to England’s relations with Scotland, where [[archetypes/king|King]] David, France’s ally, has besieged the [[settings/castle|castle]] of Roxburgh, imprisoning the [[characters/countess-of-salisbury|Countess of Salisbury]]. Edward instructs his son Edward (Ned) the Black Prince to raise troops against France; Edward himself will march against the Scots. At Roxburgh the [[archetypes/king|King]] rescues and attempts to seduce the Countess, who is also desired by [[archetypes/king|King]] David and Sir William Douglas. In the principal scenes ascribed to Shakespeare, the enraptured [[archetypes/king|King]] expresses his passion in attractively lyrical verse recalling that of The Two Gentlemen of [[settings/verona|Verona]]. He attempts to persuade the [[characters/earl-of-warwick|Earl of Warwick]], the Countess’s father, to further his suit, but the Countess, virtuous (and married), repudiates his adulterous desires, threatening to kill herself if he persists. Penitent, he reverts to the French conflict. This, presented in episodes of ambitious rhetoric rather than of violent action, reaches its first climax in young Edward’s conquest over the [[archetypes/king|King]] of Bohemia, for which his father knights him. Edward’s [[characters/queen|queen]], Philippa, who with her followers has overcome the Scots, joins him, and persuades him to show [[concepts/mercy|mercy]] to the burghers of the besieged town of Calais. Young Edward, believed dead, is revealed as the conqueror of the French, and the play ends with a jingoistic English triumph. It has had a few modern productions, including one by the Royal Shakespeare Company in  
-THE PERSONS OF THE PLAY  
-The English  
-[[archetypes/king|KING]] [[characters/edward-iii|EDWARD III]]  
-[[characters/queen-philippa|QUEEN PHILIPPA]], his wife  
-Edward, PRINCE OF WALES, their eldest son  
-The [[characters/earl-of-salisbury|EARL OF SALISBURY]]  
-The [[characters/countess-of-salisbury|COUNTESS OF SALISBURY]], his wife  
-The [[characters/earl-of-warwick|EARL OF WARWICK]], the Countess’s father  
-Sir William de MONTAGUE, Salisbury’s nephew  
-The EARL OF DERBY  
-Sir James AUDLEY  
-Henry, Lord PERCY  
-John COPLAND, an esquire, later knighted  
-LODOWICK, [[archetypes/king|King]] Edward’s secretary  
-Two SQUIRES  
-A HERALD to [[archetypes/king|King]] Edward from the Prince of Wales Four heralds who bear the Prince of Wales’s armour Soldiers  
-
-Allied with the English  
-Robert, COMTE D’ARTOIS and [[characters/earl-of-richmond|Earl of Richmond]]  
-Jean, COMTE DE MONTFORT, later Duc de Bretagne  
-GOBIN de Grace, a French Prisoner  
-
-The French  
-Jean II de Valois, [[characters/king-of-france|KING OF FRANCE]]  
-Prince Charles, Jean’s eldest son, Duc de Normandie, the [[characters/dauphin|DAUPHIN]]  
-PRINCE PHILIPPE, Jean’s younger son  
 
 
 <span class="qlang-split" data-lang="it"></span>
