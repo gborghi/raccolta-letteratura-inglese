@@ -33,6 +33,8 @@ jobs:
         run: node scripts/check-mojibake.mjs content
         env:
           MOJIBAKE_STRICT: "1"
+      - name: Shakespeare cast check (one PERSONS OF THE PLAY per play)
+        run: node --test scripts/check-mojibake.test.mjs scripts/check-shakespeare-cast.test.mjs && node scripts/check-shakespeare-cast.mjs content/testi/shakespeare
       - name: Build Quartz
         run: npx quartz build
         env:
