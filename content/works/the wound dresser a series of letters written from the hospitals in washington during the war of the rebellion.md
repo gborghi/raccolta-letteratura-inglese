@@ -481,7 +481,7 @@ will egotistically confess, I like to flourish. Even in a medical point of
 view it is one of the greatest things; and in a surgical point of view,
 the same. I can testify that friendship has literally cured a fever, and
 the medicine of daily affection, a bad wound. In these sayings are the
-final secret of carrying out well the r�le of a hospital missionary for
+final secret of carrying out well the rôle of a hospital missionary for
 our soldiers, which I tell for those who will understand them.
 
 As I write, I have lying before me a little discarded note-book, filled
@@ -955,7 +955,7 @@ form an immense V; and others again arranged around a hollow square. They
 make all together a huge cluster, with the additional tents, extra wards
 for contagious diseases, guard-houses, sutler's stores, chaplain's house,
 etc. In the middle will probably be an edifice devoted to the offices of
-the surgeon in charge and the ward surgeons, principal attach�s, clerks,
+the surgeon in charge and the ward surgeons, principal attachés, clerks,
 etc. Then around this centre radiate or are gathered the wards for the
 wounded and sick.
 
@@ -1701,12 +1701,12 @@ about his boy, died a long while ago in hospital in Yorktown. He works in
 the Navy Yard--knows Andrew. You will see about him (the boy) in a letter
 I sent yesterday to the _Eagle_--it ought to appear to-day or to-morrow.
 
-Jeff, I wish you would take 10� I send in this letter and get me ten
+Jeff, I wish you would take 10¢ I send in this letter and get me ten
 copies of the _Eagle_ with it in--put in five more of my pictures (the big
 ones in last edition "Leaves"), and a couple of the photographs carte
 visites (the smaller ones), and send me to the same direction as before;
 it came very well. I will send an _Eagle_ to Han and George. The stamps
-and 10� are for Jeff for the papers and postage.
+and 10¢ are for Jeff for the papers and postage.
 
 I have written to Han, and sent her George's last two letters from
 Kentucky; one I got last week from Mount Sterling. I write to George and

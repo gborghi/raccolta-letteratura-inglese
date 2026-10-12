@@ -201,7 +201,7 @@ The literatus who realized this had his own message in mind. And yet,
 justly. For those who might point to the worldly prosperity and material  
 comforts of his country, and ask, Are not these better indeed than any  
 utterances even of greatest rhapsodic, artist, or literatus? he has his  
-irrefutable answer. He surveys the New York of 1870, "its fa�ades of  
+irrefutable answer. He surveys the New York of 1870, "its façades of  
 marble and iron, of original grandeur and elegance of design," etc., in  
 his familiar catalogical jargon, and shutting his eyes to its glow and  
 grandeur, inquires in return, Are there indeed _men_ here worthy the  
@@ -1052,7 +1052,7 @@ CITY OF SHIPS.
   City of the sea! city of hurried and glittering tides!  
   City whose gleeful tides continually rush or recede, whirling in and  
             out with eddies and foam!  
-  City of wharves and stores--city of tall fa�ades of marble and iron!  
+  City of wharves and stores--city of tall façades of marble and iron!  
   Proud and passionate city--mettlesome, mad, extravagant city!  
   Spring up, O city--not for peace alone, but be indeed yourself,  
             warlike!  

@@ -943,7 +943,7 @@ and twelve thousand. For a mile Fulton street was lined with magnificent
 elm trees. The character of the place was thoroughly rural. As a sample
 of comparative values, it may be mention'd that twenty-five acres in
 what is now the most costly part of the [[motifs/city|city]], bounded by Flatbush and
-Fulton avenues, were then bought by Mr Parmentier, a French _emigr�_,
+Fulton avenues, were then bought by Mr Parmentier, a French _émigré_,
 for $4000. Who remembers the old places as they were? Who remembers the
 old citizens of that [[motifs/time|time]]? Among the former were Smith & Wood's, Coe
 Downing's, and other public houses at the ferry, the old Ferry itself,
@@ -1726,7 +1726,7 @@ round columns, spotless as [[motifs/snow|snow]]--the walls also--the tender and
 soft moonlight, flooding the pale marble, and making peculiar faint
 languishing shades, not shadows--everywhere a soft transparent
 hazy, thin, blue [[motifs/moon|moon]]-lace, hanging in the air--the brilliant and
-extra-plentiful clusters of gas, on and around the fa�ade, columns,
+extra-plentiful clusters of gas, on and around the façade, columns,
 portico, &c.--everything so white, so marbly pure and dazzling, yet
 soft--the White House of future poems, and of [[motifs/dreams|dreams]] and dramas, there
 in the soft and copious [[motifs/moon|moon]]--the gorgeous front, in the trees, under
@@ -2338,7 +2338,7 @@ with yellow straps, rides at his left, and following behind, two by
 two, come the cavalry men, in their yellow-striped jackets. They are
 generally going at a slow trot, as that is the pace set them by the one
 they wait upon. The sabres and accoutrements clank, and the entirely
-unornamental _cort�ge_ as it trots towards Lafayette square arouses
+unornamental _cortège_ as it trots towards Lafayette square arouses
 no sensation, only some curious stranger stops and gazes. I see very
 plainly [[characters/abraham-lincoln|ABRAHAM LINCOLN]]'S dark brown face, with the deep-cut lines, the
 eyes, always to me with a deep latent sadness in the expression. We
@@ -3527,7 +3527,7 @@ aureole that will remain and will grow brighter through [[motifs/time|time]], wh
 [[concepts/history|history]] lives, and [[motifs/love|love]] of country lasts. By many has this [[concepts/union|Union]] been
 help'd; but if one name, one man, must be pick'd out, he, most of all,
 is the conservator of it, to the future. He was assassinated--but the
-[[concepts/union|Union]] is not assassinated--_�a ira_! One falls and another falls. The
+[[concepts/union|Union]] is not assassinated--_ça ira_! One falls and another falls. The
 soldier drops, sinks like a wave--but the ranks of the ocean
 eternally press on. [[motifs/death|Death]] does its work, obliterates a hundred, a
 thousand--President, general, captain, private,--but the Nation is
@@ -4627,7 +4627,7 @@ September breeze, with pensive cadence through the tree tops.
 <span class="atom-split" data-atom="story_46_hospital_perplexity--part_19" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 19)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/autumn,motif/death,motif/fire,motif/flowers,motif/frost,motif/hill,motif/leaves,motif/moon,motif/night,motif/noon,motif/rose,motif/soul,motif/stars,motif/storm,motif/time,motif/water,motif/wind,motif/winter,concept/doubt,concept/solitude"></span>
 
 
-_Another Day_.--The ground in all directions strew'd with _d�bris_ from
+_Another Day_.--The ground in all directions strew'd with _débris_ from
 a [[motifs/storm|storm]]. Timber creek, as I slowly pace its banks, has ebb'd low, and
 shows reaction from the turbulent swell of the late equinoctial. As I
 look around, I take account of stock--weeds and shrubs, knolls, paths,
@@ -6693,14 +6693,14 @@ drivers--the whole splendid average of native stock, [[motifs/city|city]] and co
 It is good work, though; and upon the whole, the Park force members like
 it. They see life, and the excitement keeps them up. There is not so
 much difficulty as might be supposed from tramps, roughs, or in keeping
-people "off the grass." The worst trouble of the regular Park employ� is
+people "off the grass." The worst trouble of the regular Park employé is
 from malarial fever, chills, and the like.
 
 A FINE AFTERNOON, 4 TO 6
 
 Ten thousand vehicles careering through the Park this perfect afternoon.
 Such a show! and I have seen all--watch'd it narrowly, and at
-my leisure. Private barouches, cabs and coup�s, some fine
+my leisure. Private barouches, cabs and coupés, some fine
 horseflesh--lapdogs, footmen, fashions, foreigners, cockades on hats,
 crests on panels--the full oceanic tide of [[settings/new-york|New York]]'s wealth and
 "gentility." It was an impressive, rich, interminable circus on a grand
@@ -7063,7 +7063,7 @@ out, wounded as he is, and hang him.
 
 In due [[motifs/time|time]] we reach Denver, which [[motifs/city|city]] I fall in [[motifs/love|love]] with from the
 first, and have that feeling confirm'd, the longer I stay there. One of
-my pleasantest days was a jaunt, via Platte ca�on, to Leadville.
+my pleasantest days was a jaunt, via Platte cañon, to Leadville.
 
 AN HOUR ON KENOSHA SUMMIT
 
@@ -7079,9 +7079,9 @@ the bright sun in this pure air. But I had better commence with the day.
 <span class="atom-split" data-atom="story_46_hospital_perplexity--part_41" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 41)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/autumn,motif/chains,motif/dawn,motif/fire,motif/hill,motif/nature,motif/night,motif/snow,motif/soul,motif/water,motif/well,concept/beauty,concept/nature,histref/america,setting/america,setting/mountains,character/lincoln,character/speed"></span>
 
 
-The confronting of Platte ca�on just at [[motifs/dawn|dawn]], after a ten miles' ride in
+The confronting of Platte cañon just at [[motifs/dawn|dawn]], after a ten miles' ride in
 early darkness on the rail from Denver--the seasonable stoppage at
-the entrance of the ca�on, and good breakfast of eggs, trout, and nice
+the entrance of the cañon, and good breakfast of eggs, trout, and nice
 griddle-cakes--then as we travel on, and get [[motifs/well|well]] in the gorge, all the
 wonders, [[concepts/beauty|beauty]], savage power of the scene--the wild stream of [[motifs/water|water]],
 from sources of snows, brawling continually in sight one side--the
@@ -7112,14 +7112,14 @@ and how they may affect him or color his destinies.")
 NEW SENSES: NEW JOYS
 
 We follow the stream of amber and bronze brawling along its bed,
-with its frequent cascades and [[motifs/snow|snow]]-white foam. Through the ca�on we
+with its frequent cascades and [[motifs/snow|snow]]-white foam. Through the cañon we
 fly--[[settings/mountains|mountains]] not only each side, but seemingly, till we get near,
 right in front of us--every rood a new view flashing, and each flash
 defying description--on the almost perpendicular sides, clinging
 pines, cedars, spruces, crimson sumach bushes, spots of wild grass--but
 dominating all, those towering rocks, rocks, rocks, bathed in delicate
 vari-colors, with the clear sky of [[motifs/autumn|autumn]] overhead. New senses, new
-joys, seem develop'd. Talk as you like, a typical Rocky Mountain ca�on,
+joys, seem develop'd. Talk as you like, a typical Rocky Mountain cañon,
 or a limitless sea-like stretch of the great Kansas or Colorado plains,
 under favoring circumstances, tallies, perhaps expresses, certainly
 awakes, those grandest and subtlest element-emotions in the human
@@ -7144,7 +7144,7 @@ tents. Once, a canvas office where you could send a message by
 electricity anywhere around the world! Yes, pronounc'd signs of the man
 of latest dates, dauntlessly grappling with these grisliest shows of the
 old kosmos. At several places steam saw-mills, with their piles of logs
-and boards, and the pipes puffing. Occasionally Platte ca�on expanding
+and boards, and the pipes puffing. Occasionally Platte cañon expanding
 into a grassy flat of a few acres. At one such place, toward the end,
 where we stop, and I get out to stretch my legs, as I look skyward, or
 rather mountain-topward, a huge hawk or eagle (a rare sight here) is
@@ -7348,7 +7348,7 @@ middle and northern United States. I had seen it on the Hudson and over
 Long Island, and along the banks of the Delaware and through New Jersey,
 (as years ago up the Connecticut, and one fall by Lake Champlain.) This
 trip it follow'd me regularly, with its slender stem and eyes of gold,
-from Cape May to the Kaw valley, and so through the ca�ons and to these
+from Cape May to the Kaw valley, and so through the cañons and to these
 plains. In Missouri I saw immense fields all bright with it. Toward
 western Illinois I woke up one morning in the sleeper and the first
 thing when I drew the curtain of my berth and look'd out was its pretty
@@ -7388,7 +7388,7 @@ left by surface-conflagrations--the deep-plough'd furrow of the
 the railroad from [[motifs/winter|winter]] drifts--the prairie-dogs and the herds
 of antelope--the curious "dry rivers"--occasionally a "dug-out" or
 corral--Fort Riley and Fort Wallace--those towns of the northern plains,
-(like ships on the sea,) Eagle-Tail, Coyot�, Cheyenne, Agate, Monotony,
+(like ships on the sea,) Eagle-Tail, Coyoté, Cheyenne, Agate, Monotony,
 Kit Carson--with ever the ant-[[motifs/hill|hill]] and the buffalo-wallow--ever the
 herds of cattle and the cow-boys ("cow-punchers") to me a strangely
 interesting class, bright-eyed as hawks, with their swarthy complexions
@@ -8265,7 +8265,7 @@ Embers of Ending Days,              Autochthons....Embryons,
 Ducks and Drakes,                   Wing-and-Wing,
 Flood Tide and Ebb,                 Notes and Recalles.
 Gossip at Early Candle-light,       Only Mulleins and Bumble-[[motifs/bees|Bees]],
-Echoes and Escapades,               Pond-Babble....T�te-a-T�tes,
+Echoes and Escapades,               Pond-Babble....Tête-a-Têtes,
 Such as I....Evening Dews,          Echoes of a Life in the 19th
 Notes and Writing a Book,             Century in the New World,
 Far and Near at 63,                 Flanges of Fifty Years,
@@ -8694,11 +8694,11 @@ Schelling and Hegel have bequeath'd to humanity--and which English
 Darwin has also in his field--are indispensable to the erudition of
 [[settings/america|America]]'s future, I should say that in all of them, and the best of
 them, when compared with the [[motifs/lightning|lightning]] flashes and flights of the old
-prophets and _exalt�s_, the spiritual poets and poetry of all lands,
+prophets and _exaltés_, the spiritual poets and poetry of all lands,
 (as in the Hebrew [[historical-references/bible|Bible]],) there seems to be, nay certainly is, something
 lacking--something cold, a failure to satisfy the deepest emotions
 of the [[motifs/soul|soul]]--a want of living glow, fondness, warmth, which the old
-_exalt�s_ and poets supply, and which the keenest modern philosophers so
+_exaltés_ and poets supply, and which the keenest modern philosophers so
 far do not.
 
 Upon the whole, and for our purposes, this man's name certainly belongs
@@ -10193,7 +10193,7 @@ these melo-dramatic screamings,) nor is humanity itself believ'd in.
 What penetrating eye does not everywhere see through the mask? The
 spectacle is appaling. We live in an atmosphere of hypocrisy throughout.
 The men believe not in the women, nor the women in the men. A scornful
-superciliousness rules in literature. The aim of all the _litt�rateurs_
+superciliousness rules in literature. The aim of all the _littérateurs_
 is to find something to make fun of. A lot of churches, sects, &c., the
 most dismal phantasms I know, usurp the name of religion. Conversation
 is a mass of badinage. From deceit in the spirit, the mother of all
@@ -10236,7 +10236,7 @@ After an absence, I am now again (September, 1870) in [[settings/new-york|New Yo
 Brooklyn, on a few weeks' vacation. The splendor, picturesqueness,
 and oceanic amplitude and rush of these great cities, the unsurpass'd
 situation, rivers and bay, sparkling sea-tides, costly and lofty new
-buildings, fa�ades of marble and iron, of original grandeur and elegance
+buildings, façades of marble and iron, of original grandeur and elegance
 of design, with the masses of gay color, the preponderance of white
 and blue, the flags flying, the endless ships, the tumultuous streets,
 Broadway, the heavy, low, musical roar, hardly ever intermitted, even
@@ -10877,7 +10877,7 @@ being so, soon as they realize it, and can bring themselves to give up
 toys and fictions, and launch forth, as men do, amid real, independent,
 stormy life.
 
-Then, as towards our thought's final�, (and, in that, overarching the
+Then, as towards our thought's finalé, (and, in that, overarching the
 true scholar's lesson,) we have to say there can be no complete or
 epical presentation of [[concepts/democracy|democracy]] in the aggregate, or anything like it,
 at this day, because its doctrines will only be effectually incarnated
@@ -10957,7 +10957,7 @@ or heart-wearying postponements, we have never deserted, never
 
 So much contributed, to be conn'd [[motifs/well|well]], to help prepare and brace our
 edifice, our plann'd Idea--we still proceed to give it in another of its
-aspects--perhaps the main, the high fa�ade of all. For to [[concepts/democracy|democracy]],
+aspects--perhaps the main, the high façade of all. For to [[concepts/democracy|democracy]],
 the leveler, the unyielding principle of the average, is surely join'd
 another principle, equally unyielding, closely tracking the first,
 indispensable to it, opposite, (as the sexes are opposite,) and whose
@@ -12476,7 +12476,7 @@ royalty, may be but simply the laurel-[[motifs/crown|crown]] of the victors in t
 Olympic games--will be dearest to humanity, and their works, however
 esthetically defective, will be treasur'd forever. The altitude of
 literature and poetry has always been religion--and always will be. The
-Indian Vedas, the Na�kas of Zoroaster, the Tal mud of the Jews, the Old
+Indian Vedas, the Naçkas of Zoroaster, the Tal mud of the Jews, the Old
 Testament, the Gospel of [[characters/christ|Christ]] and his disciples, Plato's works, the
 Koran of Mohammed, the Edda of Snorro, and so on toward our own day, to
 Swedenborg, and to the invaluable contributions of Leibnitz, Kant and
@@ -13646,7 +13646,7 @@ objective worlds. To me
 The [[archetypes/prophet|prophet]] and the bard,
 Shall yet maintain themselves--in higher circles yet,
 Shall mediate to the modern, to [[concepts/democracy|democracy]]--interpret yet to them,
-God and eid�lons.
+God and eidólons.
 
 To me, the [[motifs/crown|crown]] of savantism is to be, that it surely opens the way for
 a more splendid theology, and for ampler and diviner songs. No year, nor
@@ -14051,11 +14051,11 @@ houses and furniture--solid oak, no mere veneering--the moldy [[motifs/secrets|s
 everywhere; the verdure, the ivy on the walls, the moat, the English
 landscape outside, the buzzing fly in the sun inside the [[motifs/window|window]] pane.
 Never one democratic page; nay, not a line, not a word; never free and
-_na�ve_ poetry, but involved, labored, quite sophisticated--even when
+_naïve_ poetry, but involved, labored, quite sophisticated--even when
 the theme is ever so simple or rustic, (a shell, a bit of sedge, the
 commonest [[motifs/love|love]]-passage between a lad and lass,) the handling of the
 rhyme all showing the scholar and conventional gentleman; showing the
-laureate too, the _attach�_ of the throne, and most excellent, too;
+laureate too, the _attaché_ of the throne, and most excellent, too;
 nothing better through the volumes than the dedication "to the [[characters/queen|Queen]]"
 at the beginning, and the other fine dedication, "these to his [[motifs/memory|memory]]"
 (Prince Albert's,) preceding "Idylls of the [[archetypes/king|King]]."
@@ -14122,7 +14122,7 @@ the precipitation and tincture of this entirely different fancy world
 of lulling, contrasting, even feudalistic, anti-republican poetry and
 romance. On the enormous outgrowth of our unloos'd individualities,
 and the rank, [[concepts/self|self]]-assertion of humanity here, may [[motifs/well|well]] fall these
-grace-persuading, _recherch�_ influences. We first require that
+grace-persuading, _recherché_ influences. We first require that
 individuals and communities shall be free; then surely comes a [[motifs/time|time]]
 when it is requisite that they shall not be too free. Although to such
 results in the future I look mainly for a great poetry native to us,
@@ -14416,7 +14416,7 @@ United States most need, to give purport, definiteness, reason why, to
 their unprecedented material wealth, industrial products, [[concepts/education|education]]
 by rote merely, great populousness and intellectual activity, is the
 central, spinal reality, (or even the idea of it,) of such a democratic
-band of-native-born-and-bred teachers, artists, _litt�rateurs_, tolerant
+band of-native-born-and-bred teachers, artists, _littérateurs_, tolerant
 and receptive of importations, but entirely adjusted to the West, to
 ourselves, to our own days, combinations, differences, superiorities.
 Indeed, I am fond of thinking that the whole series of concrete and
@@ -14978,7 +14978,7 @@ secession war. Four years of lurid, bleeding, murky, murderous war.
 Who paint those years, with all their scenes?--the hard-fought
 engagements--the defeats, plans, failures--the gloomy hours, days,
 when our Nationality seem'd hung in pall of [[concepts/doubt|doubt]], perhaps [[motifs/death|death]]--the
-Mephistophelean sneers of foreign lands and attach�s--the dreaded
+Mephistophelean sneers of foreign lands and attachés--the dreaded
 Scylla of European interference, and the Charybdis of the tremendously
 dangerous latent strata of secession sympathizers throughout the free
 States, (far more numerous than is supposed)--the long marches
@@ -15479,7 +15479,7 @@ diagnoser. Not passion or [[concepts/imagination|imagination]] or warp or weakne
 pronounced cause or specialty, dominates him. Cold and bloodless
 intellectuality dominates him. (I know the fires, emotions, [[motifs/love|love]],
 egotisms, glow deep, perennial, as in all New Englanders--but the
-fa�ade, hides them [[motifs/well|well]]--they give no sign.) He does not see or take one
+façade, hides them [[motifs/well|well]]--they give no sign.) He does not see or take one
 side, one presentation only or mainly, (as all the poets, or most of the
 fine writers anyhow)--he sees all sides. His final influence is to
 make his students cease to worship anything--almost cease to believe in
@@ -15643,7 +15643,7 @@ of the depth, as distinguished from those of the surface,) are to be
 sternly tallied with the poets themselves, and tried by them and their
 lives. Who wants a glorification of [[concepts/courage|courage]] and manly defiance from
 a coward or a sneak?--a ballad of benevolence or chastity from some
-rhyming hunks, or lascivious, glib _rou�_?
+rhyming hunks, or lascivious, glib _roué_?
 
 
 
@@ -18776,7 +18776,7 @@ unconscious of their own aims, yet none the less pressing onward
 with deathless intuition--those coteries do not furnish the faintest
 scintilla. In the Old World the best flavor and significance of a race
 may possibly need to be look'd for in its "upper classes," its gentries,
-its [[settings/court|court]], its _�tat major_. In the United States the rule is revers'd.
+its [[settings/court|court]], its _état major_. In the United States the rule is revers'd.
 Besides (and a point, this, perhaps deepest of all,) the special marks
 of our grouping and design are not going to be understood in a hurry.
 The lesson and scanning right on the ground are difficult; I was going
@@ -18883,7 +18883,7 @@ country--that every land in the world--could annually, continually,
 receive the poets, thinkers, scientists, even the official magnates, of
 other lands, as honor'd guests. O that the United States, especially the
 West, could have had a good long visit and explorative jaunt, from
-the noble and [[concepts/melancholy|melancholy]] Tourgu�neff, before he died--or from Victor
+the noble and [[concepts/melancholy|melancholy]] Tourguéneff, before he died--or from Victor
 Hugo--or Thomas Carlyle. Castelar, Tennyson, any of the two or three
 great Parisian essayists--were they and we to come face to face, how is
 it possible but that the right understanding would ensue?
@@ -19134,7 +19134,7 @@ Talking of oratory, why is it that the unsophisticated practices often
 strike deeper than the train'd ones? Why do our experiences perhaps of
 some local country exhorter--or often in the West or South at political
 meetings--bring the most definite results? In my [[motifs/time|time]] I have heard
-Webster, Clay, Edward Everett, Phillips, and such _c�l�br�s_ yet I
+Webster, Clay, Edward Everett, Phillips, and such _célèbres_ yet I
 recall the minor but life-eloquence of men like John P. Hale, [[characters/cassius|Cassius]]
 Clay, and one or two of the old abolition "fanatics" ahead of all those
 stereotyped fames. Is not--I sometimes question--the first, last, and
@@ -19169,10 +19169,10 @@ follows:--_Philadelphia Press_, August 5, 1883.]
 
 CAMDEN, NEW JERSEY, _July 20, 1883_.
 
-_To Messrs. Griffin, Martinez, Prince, and other Gentlemen at Santa F�_:
+_To Messrs. Griffin, Martinez, Prince, and other Gentlemen at Santa Fé_:
 
 DEAR SIRS:--Your kind invitation to visit you and deliver a poem for the
-333d Anniversary of founding Santa F� has reach'd me so late that I have
+333d Anniversary of founding Santa Fé has reach'd me so late that I have
 to decline, with sincere regret. But I will say a few words offhand.
 
 We Americans have yet to really learn our own antecedents, and sort
@@ -19207,7 +19207,7 @@ utterly the illusion-compound, half raw-head-and-bloody-bones and half
 Mysteries-of-Udolpho, inherited from the English writers of the past 200
 years. It is [[motifs/time|time]] to realize--for it is certainly true--that there
 will not be found any more cruelty, tyranny, superstition, &c., in the
-_r�sum�_ of past Spanish [[concepts/history|history]] than in the corresponding _r�sum�_ of
+_résumé_ of past Spanish [[concepts/history|history]] than in the corresponding _résumé_ of
 Anglo-Norman [[concepts/history|history]]. Nay, I think there will not be found so much.)
 
 Then another point, relating to American ethnology, past and to come,
@@ -19313,7 +19313,7 @@ utterance-meanings, like magic ink, warm' d by the [[motifs/fire|fire]], and pre
 invisible. Will it not indeed be strange if the author of "[[characters/othello|Othello]]" and
 "[[characters/hamlet|Hamlet]]" is destin'd to live in [[settings/america|America]], in a generation or two, less as
 the cunning draughtsman of the passions, and more as putting on record
-the first full expos�--and by far the most vivid one, immeasurably ahead
+the first full exposé--and by far the most vivid one, immeasurably ahead
 of doctrinaires and economists--of the political theory and results, or
 the reason-why and necessity for them which [[settings/america|America]] has come on earth to
 abnegate and replace?
@@ -19402,7 +19402,7 @@ low characters, mechanics, even the loyal henchmen--all in themselves
 nothing--serve as capital foils to the aristocracy. The comedies
 (exquisite as they certainly are) bringing in admirably portray'd common
 characters, have the unmistakable hue of plays, portraits, made for the
-divertisement only of the �lite of the [[settings/castle|castle]], and from its point
+divertisement only of the élite of the [[settings/castle|castle]], and from its point
 of view. The comedies are altogether non-acceptable to [[settings/america|America]] and
 [[concepts/democracy|Democracy]].
 
@@ -20408,7 +20408,7 @@ golden, glistening domination of Mars over all the [[motifs/stars|stars]] in the
 As we came nearer St. Louis, the [[motifs/night|night]] having [[motifs/well|well]] set in, I saw some
 (to me) [[forms/novel|novel]] effects in the zinc smelting establishments, the tall
 chimneys belching flames at the top, while inside through the openings
-at the fa�ades of the great tanks burst forth (in regular position)
+at the façades of the great tanks burst forth (in regular position)
 hundreds of fierce tufts of a peculiar blue (or green) flame, of a
 purity and intensity, like electric lights--illuminating not only the
 great buildings themselves, but far and near outside, like hues of the
@@ -22083,14 +22083,14 @@ touch. Yet a man might commence and overhaul it as furnishing one of the
 amplest historic and [[forms/biography|biography]]'s backgrounds. While the foremost actors
 and events from 1750 to 1830 both in Europe and [[settings/america|America]] were crowding
 each other on the world's stage--While so many kings, queens, soldiers,
-philosophs, musicians, voyagers, litt�rateurs, enter one side, [[motifs/cross|cross]] the
+philosophs, musicians, voyagers, littérateurs, enter one side, [[motifs/cross|cross]] the
 boards, and disappear--amid loudest reverberating names--Frederick
 the Great, Swedenborg, Junius, Voltaire, Rousseau, Linnaeus,
 Herschel--curiously contemporary with the long life of Goethe--through
 the occupancy of the British throne by George the Third--amid stupendous
 visible political and social revolutions, and far more stupendous
 invisible moral ones--while the many quarto volumes of the Encyclopaedia
-Fran�aise are being published at fits and intervals, by Diderot, in
+Française are being published at fits and intervals, by Diderot, in
 [[settings/paris|Paris]]--while Haydn and Beethoven and Mozart and Weber are working out
 their harmonic compositions--while Mrs. Siddons and Talma and Kean are
 acting--while Mungo Park explores Africa, and Capt. Cook circumnavigates
@@ -22115,7 +22115,7 @@ I say, and though on a far different grade, running parallel and
 contemporary with all--a curious, quiet yet busy life centred in a
 little country village on Long Island, and within sound on still
 nights of the mystic surf-beat of the sea. About this life, this
-Personality--neither soldier, nor scientist, nor litt�rateur--I propose
+Personality--neither soldier, nor scientist, nor littérateur--I propose
 to occupy a few minutes in fragmentary talk, to give some few melanges,
 disconnected impressions, statistics, resultant groups, pictures,
 thoughts' of him, or radiating from him.
@@ -23182,13 +23182,13 @@ at [[characters/bottom|bottom]], and may-be I do not exhibit and make ado about 
 passions: I am partly of Quaker stock.) Then E.C. Stedman finds (or
 found) mark'd fault with me because while celebrating the common people
 _en masse_, I do not allow enough [[concepts/heroism|heroism]] and moral merit and good
-intentions to the choicer classes, the college-bred, the _�tat-major_.
+intentions to the choicer classes, the college-bred, the _état-major_.
 It is quite probable that S. is right in the matter. In the main I
 myself look, and have from the first look'd, to the bulky democratic
 _torso_ of the United States even for esthetic and moral attributes
 of serious account--and refused to aim at or accept anything less. If
 [[settings/america|America]] is only for the rule and fashion and small typicality of other
-lands (the rule of the _�tat-major_) it is not the land I take it for,
+lands (the rule of the _état-major_) it is not the land I take it for,
 and should to-day feel that my literary aim and theory had been blanks
 and misdirections. Strictly judged, most modern poems are but larger
 or smaller lumps of sugar, or slices of toothsome sweet cake--even the
@@ -24496,7 +24496,7 @@ an easier question to answer.
 All along from 1860 to '91, many of the pieces in L. of G., and its
 annexes, were first sent to publishers or magazine editors before being
 printed in the L., and were peremptorily rejected by them, and sent back
-to their author. The "Eid�lons" was sent back by Dr. H., of "Scribner's
+to their author. The "Eidólons" was sent back by Dr. H., of "Scribner's
 Monthly" with a lengthy, very insulting and contemptuous letter. "To
 the Sun-Set Breeze," was rejected by the editor of "Harper's Monthly" as
 being "an improvisation" only. "On, on ye jocund twain" was rejected
@@ -24702,7 +24702,7 @@ many fine old plays, neither tragedies nor comedies--the names of them
 quite unknown to to-day's current audiences. "All is not Gold that
 Glitters," in which Charlotte Cushman had a superbly enacted part, was
 of that kind. C. C., who revel'd in them, was great in such pieces; I
-think better than in the heavy popular r�les.
+think better than in the heavy popular rôles.
 
 We had some fine music those days. We had the English opera of
 "Cinderella" (with Henry Placide as the pompous old father, an
