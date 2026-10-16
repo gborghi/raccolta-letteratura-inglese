@@ -2943,3 +2943,21 @@ body[data-slug^="testi/"] .article-title {
 .callout[data-callout="note"] {
   --color: #a98a4f; // gold, kept for ornament-level asides
 }
+
+// Semantic search tier (EmbeddingGemma 2) — desktop only for now.
+.sd-hit-line {
+  display: block;
+  font-size: 0.85em;
+  opacity: 0.8;
+  font-style: italic;
+  margin-top: 0.15rem;
+}
+.sd-sem-err {
+  opacity: 0.8;
+  font-size: 0.9em;
+}
+@media (max-width: 800px), (pointer: coarse) {
+  .sem-btn {
+    display: none !important;
+  }
+}

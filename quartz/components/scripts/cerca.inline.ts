@@ -7,6 +7,7 @@
 
 import { esc, slugPrefix, loadKw, kwCached, makeModeToggle } from "./qtable"
 import { fieldsMatchQuery } from "./searchDepth"
+import { makeSemanticToggle, rowScore } from "./semantic"
 
 const KW_FILE = "works_kw.json"
 
@@ -223,6 +224,14 @@ async function init() {
   const searchRow = document.createElement("div")
   searchRow.className = "qtable-searchrow"
   searchRow.append(search, modeBtn)
+  const sem = makeSemanticToggle({
+    input: search,
+    rerender: () => {
+      page = 1
+      renderResults()
+    },
+  })
+  if (sem.button) searchRow.append(sem.button)
 
   const count = document.createElement("div")
   count.className = "cerca-count"
@@ -356,7 +365,12 @@ async function init() {
     // in a form=letter query ahead of the actual letters).
     let rows = (selected.size > 0 ? data.filter(matches) : data.slice())
       .filter((r) => !r.href.startsWith("works/"))
-    if (q) {
+    const sm = sem.scores()
+    if (sm) {
+      const sc = new Map(rows.map((r) => [r, rowScore(sm, r.href)] as const))
+      rows = rows.filter((r) => sc.get(r)! > -Infinity)
+      rows.sort((a, b) => sc.get(b)! - sc.get(a)!)
+    } else if (q) {
       rows = rows.filter((r) => {
         if (searchMode === "content") {
           const kw = kwCached(KW_FILE)?.[r.href]
@@ -366,7 +380,7 @@ async function init() {
       })
     }
 
-    rows.sort((a, b) => {
+    if (!sm) rows.sort((a, b) => {
       let av: any = a[sortKey]
       let bv: any = b[sortKey]
       if (sortKey === "nconnections") {
