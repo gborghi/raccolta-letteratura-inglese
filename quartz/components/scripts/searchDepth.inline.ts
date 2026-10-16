@@ -4,6 +4,8 @@
 //   1 Standard works, top-150 terms                    (better recall)
 //   2 Deep     + ~19k per-atom entries                 (search inside chapters)
 //   3 Max      full terms + 700-char snippets + fuzzy  (MiniSearch typo tolerance)
+//   4 Semantic EmbeddingGemma 2 in the browser over precomputed embeddings (desktop only,
+//              see semantic.ts) — atoms, pages and single Shakespeare lines
 // Each tier's `content` is a superset of the shallower one, so deepening = replace doc
 // content by slug + add new atom slugs (see searchDepth.ts mergeTier). Mobile clamps ≤1.
 // Shipped globally via componentResources (see that emitter). The community search
@@ -25,6 +27,7 @@ import {
   unionIds,
   type BoolOp,
 } from "./searchDepth"
+import { semanticSupported, ensureSemantic, semanticSearch, semanticDevice, type SemHit } from "./semantic"
 
 // Paginated results: show up to RESULTS_PER_PAGE on screen, with prev/next controls.
 // FlexSearch's built-in order for a common term returns whatever it resolves first — with
@@ -321,7 +324,11 @@ function ensureUI(): void {
   })
 
   // --- depth slider ---
-  const maxStop = isMobile() ? 1 : 3
+  const SEM_STOP = 4
+  const semOk = !isMobile() && semanticSupported()
+  const maxStop = isMobile() ? 1 : semOk ? SEM_STOP : 3
+  let semMode = false
+  let semSeq = 0
   const cur = 0 // ALWAYS start at the slimmest tier on page load (deepen on demand)
   wrap.innerHTML = `
     <input class="sd-slider" type="range" min="0" max="${maxStop}" step="1" value="${cur}" aria-label="Search depth" />
@@ -331,14 +338,73 @@ function ensureUI(): void {
   const label = wrap.querySelector(".sd-slider-label") as HTMLElement
   const spin = wrap.querySelector(".sd-spin") as HTMLElement
   const paint = () => {
-    label.textContent = `${STOP_LABELS[+slider.value]} — ${stopHint(+slider.value)}`
+    label.textContent =
+      +slider.value === SEM_STOP
+        ? `Semantic — by meaning (EmbeddingGemma 2, in your browser)${semanticDevice() ? ` · ${semanticDevice()}` : ""}`
+        : `${STOP_LABELS[+slider.value]} — ${stopHint(+slider.value)}`
   }
   paint()
 
   let currentPage = 0
   let currentHits: Doc[] = []
 
+  const semHref = (id: string) => `${basePath()}/${id}`.replace(/([^:])\/\/+/g, "$1/")
+  const renderSemantic = async () => {
+    const q = input.value.trim()
+    const my = ++semSeq
+    if (!q) {
+      resultsContainer.innerHTML = ""
+      paginationContainer.innerHTML = ""
+      return
+    }
+    let hits: SemHit[] = []
+    try {
+      spin.hidden = false
+      await ensureSemantic((st) => {
+        if (st) label.textContent = `Semantic — ${st}`
+      })
+      paint()
+      hits = await semanticSearch(q, 400)
+    } catch (e) {
+      console.error("semantic search", e)
+      resultsContainer.innerHTML = `<p class="sd-sem-err">Semantic search unavailable in this browser.</p>`
+      return
+    } finally {
+      spin.hidden = true
+    }
+    if (my !== semSeq) return
+    // one result per target (a scene keeps its best-matching line)
+    const seen = new Set<string>()
+    const uniq = hits.filter((h) => (seen.has(h.id) ? false : (seen.add(h.id), true)))
+    const totalPages = Math.max(1, Math.ceil(uniq.length / RESULTS_PER_PAGE))
+    if (currentPage >= totalPages) currentPage = totalPages - 1
+    const start = currentPage * RESULTS_PER_PAGE
+    const pageHits = uniq.slice(start, start + RESULTS_PER_PAGE)
+    currentHits = uniq as any
+    resultsContainer.innerHTML = `<ul class="sd-results" role="listbox">${pageHits
+      .map((h) => {
+        const author = authorForDoc({ id: h.id, slug: h.id, title: h.title, content: "", tags: [], links: [] })
+        const line = h.kind === 2 ? `<span class="sd-hit-line">${esc(h.speaker)}: “${esc(h.snippet)}${h.snippet.length >= 140 ? "…" : ""}”</span>` : ""
+        return `<li role="option"><a class="sd-hit" href="${esc(semHref(h.id))}"><span class="sd-hit-title">${esc(
+          h.title || h.id,
+        )}</span>${author ? `<span class="sd-hit-author">by ${esc(author)}</span>` : ""}${line}</a></li>`
+      })
+      .join("")}</ul>`
+    paginationContainer.innerHTML = `
+      <div class="sd-pagination">
+        <span class="sd-pagination-count">Showing ${Math.min(start + 1, uniq.length)}-${Math.min(start + RESULTS_PER_PAGE, uniq.length)} of ${uniq.length} (semantic)</span>
+        <div>
+          <button class="sd-pag-prev" ${currentPage === 0 ? "disabled" : ""}>Prev</button>
+          <button class="sd-pag-next" ${currentPage >= totalPages - 1 ? "disabled" : ""}>Next</button>
+        </div>
+      </div>`
+  }
+
   const render = () => {
+    if (semMode) {
+      void renderSemantic()
+      return
+    }
     currentHits = search(input.value, defaultOp)
     const totalPages = Math.max(1, Math.ceil(currentHits.length / RESULTS_PER_PAGE))
     const start = currentPage * RESULTS_PER_PAGE
@@ -368,6 +434,14 @@ function ensureUI(): void {
   }
 
   slider.addEventListener("change", () => {
+    if (semOk && +slider.value === SEM_STOP) {
+      semMode = true
+      paint()
+      currentPage = 0
+      render()
+      return
+    }
+    semMode = false
     const want = clampStop(+slider.value, isMobile())
     slider.value = String(want)
     paint()
@@ -402,7 +476,7 @@ function ensureUI(): void {
     clearTimeout(t)
     currentPage = 0
     paintBool()
-    t = window.setTimeout(render, 90)
+    t = window.setTimeout(render, semMode ? 350 : 90)
   })
 
   const open = () => {

@@ -13,6 +13,7 @@ import {
   renderPager,
 } from "./qtable"
 import { fieldsMatchQuery } from "./searchDepth"
+import { makeSemanticToggle, rowScore } from "./semantic"
 
 const KW_FILE = "excerpts_kw.json"
 
@@ -76,6 +77,8 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
   const searchRow = document.createElement("div")
   searchRow.className = "qtable-searchrow"
   searchRow.append(search, modeBtn)
+  const sem = makeSemanticToggle({ input: search, rerender: () => render() })
+  if (sem.button) searchRow.append(sem.button)
 
   const meta = document.createElement("div")
   meta.className = "lt-meta"
@@ -105,6 +108,14 @@ function buildTable(el: HTMLElement, rows: Excerpt[], prefix: string) {
 
   function filtered(): Excerpt[] {
     const q = filter
+    const sm = sem.scores()
+    if (sm) {
+      return rows
+        .map((r) => ({ r, s: rowScore(sm, r.href) }))
+        .filter((x) => x.s > -Infinity)
+        .sort((a, b) => b.s - a.s)
+        .map((x) => x.r)
+    }
     return rows
       .filter((r) => {
         if (!q.trim()) return true

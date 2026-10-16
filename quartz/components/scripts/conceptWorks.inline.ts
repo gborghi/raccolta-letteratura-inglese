@@ -13,6 +13,7 @@ import {
   makePageSizeSelect,
 } from "./qtable"
 import { fieldsMatchQuery } from "./searchDepth"
+import { makeSemanticToggle, rowScore } from "./semantic"
 
 const KW_FILE = "works_kw.json"
 
@@ -98,6 +99,8 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   const searchRow = document.createElement("div")
   searchRow.className = "qtable-searchrow"
   searchRow.append(search, modeBtn)
+  const sem = makeSemanticToggle({ input: search, rerender: () => render() })
+  if (sem.button) searchRow.append(sem.button)
 
   const meta = document.createElement("div")
   meta.className = "cw-meta"
@@ -121,6 +124,14 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
   }
   function filtered(): Work[] {
     const q = filter
+    const sm = sem.scores()
+    if (sm) {
+      return rows
+        .map((r) => ({ r, s: rowScore(sm, r.href, (r as any).readHref) }))
+        .filter((x) => x.s > -Infinity)
+        .sort((a, b) => b.s - a.s)
+        .map((x) => x.r)
+    }
     return rows
       .filter((r) => {
         if (!q.trim()) return true

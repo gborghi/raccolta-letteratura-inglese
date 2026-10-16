@@ -58,3 +58,6 @@ data/dickens_hy_linkfix.jsonl
 # riproducibili. (run_logs/atom_mail_state.json resta tracciato: e' stato, non detrito.)
 scripts/translate/run_logs/*.log
 scripts/translate/run_logs/rejected_bodies/
+
+# Semantic tier build inputs (regenerable, large)
+data/semantic/
